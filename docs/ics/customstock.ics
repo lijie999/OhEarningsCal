@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:yvfLr5padRTAusUeNU1ZS
+UID:EWuoNyq8DVEzTg6HXbAo2
 SUMMARY:苹果 发布财报
-DTSTAMP:20240601T043908Z
+DTSTAMP:20240601T164050Z
 DTSTART;VALUE=DATE:20240502
 DESCRIPTION:财务季度：Mar/2024。\n代码：AAPL，公司：苹果，行业: 电子商务。\n预计每股收益: $1.51，当前市值: $2
 	\,671\,908\,669\,430。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AAPL \
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:_nUjwFdLAlRcz-yLpD1AU
+UID:VhsQyOwNxLqJheTsC-Ik3
 SUMMARY:迪士尼 发布财报
-DTSTAMP:20240601T043908Z
+DTSTAMP:20240601T164050Z
 DTSTART;VALUE=DATE:20240507
 DESCRIPTION:财务季度：Mar/2024。\n代码：DIS，公司：迪士尼，行业: 电子商务。\n预计每股收益: $1.12，当前市值: $2
 	13\,641\,181\,310。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=DIS \n在富途
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:F8W5UL7_dOTCntjPTfaZo
+UID:g_1t1GiEDup3iSvA7LFHC
 SUMMARY:Arm 发布财报
-DTSTAMP:20240601T043908Z
+DTSTAMP:20240601T164050Z
 DTSTART;VALUE=DATE:20240508
 DESCRIPTION:财务季度：Mar/2024。\n代码：ARM，公司：Arm，行业: 半导体。\n预计每股收益: $0.16，当前市值: $10
 	9\,047\,952\,056。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ARM \n在富途查
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:_yARRx6TaAChnTcGDgyyV
+UID:0I9dVqSRtnKwcrDs316d1
 SUMMARY:阿里巴巴 发布财报
-DTSTAMP:20240601T043908Z
+DTSTAMP:20240601T164050Z
 DTSTART;VALUE=DATE:20240514
 DESCRIPTION:财务季度：Mar/2024。\n代码：BABA，公司：阿里巴巴，行业: 电子商务。\n预计每股收益: $0.92，当前市值: 
 	$204\,002\,958\,535。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BABA \n
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:hNdwxXZNsszah00XarY88
+UID:gaTlURhg2taSrdkYZZOCW
 SUMMARY:京东 发布财报
-DTSTAMP:20240601T043908Z
+DTSTAMP:20240601T164050Z
 DTSTART;VALUE=DATE:20240516
 DESCRIPTION:财务季度：Mar/2024。\n代码：JD，公司：京东，行业: 电子商务。\n预计每股收益: $0.56，当前市值: $53\
 	,876\,486\,738。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JD \n在富途查看：h
@@ -86,9 +86,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:AN4JuqiHkSfThR-oUC3a6
+UID:S_bKk7Hj7yVt-KK8JSfIT
 SUMMARY:理想汽车 发布财报
-DTSTAMP:20240601T043908Z
+DTSTAMP:20240601T164050Z
 DTSTART;VALUE=DATE:20240520
 DESCRIPTION:财务季度：Mar/2024。\n代码：LI，公司：理想汽车，行业: 汽车。\n预计每股收益: ，当前市值: $22\,732\
 	,761\,682。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LI \n在富途查看：https:
@@ -102,9 +102,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:mYM22hAUhz-VqE-Rv7U_s
+UID:zRqyoPu5NfjLTtBuZxxvm
 SUMMARY:小鹏汽车 发布财报
-DTSTAMP:20240601T043908Z
+DTSTAMP:20240601T164050Z
 DTSTART;VALUE=DATE:20240521
 DESCRIPTION:财务季度：Mar/2024。\n代码：XPEV，公司：小鹏汽车，行业: 汽车。\n预计每股收益: ，当前市值: $8\,267
 	\,641\,595。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=XPEV \n在富途查看：htt
@@ -118,9 +118,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:_uOVGsm4Yylv4LK1tQqKz
+UID:WDJ25arQeBz0TsyZW6Th4
 SUMMARY:英伟达 盘后发布财报
-DTSTAMP:20240601T043908Z
+DTSTAMP:20240601T164050Z
 DTSTART;VALUE=DATE:20240522
 DESCRIPTION:财务季度：Apr/2024。\n代码：NVDA，公司：英伟达，行业: 电子商务。\n预计每股收益: $5.14，当前市值: $
 	2\,384\,650\,000\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NVDA 
@@ -134,9 +134,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ZrJhbB4Nbn3gct3Bx4f4q
+UID:XkZfyxLtIDJEkzTwt6Cyi
 SUMMARY:拼多多 发布财报
-DTSTAMP:20240601T043908Z
+DTSTAMP:20240601T164050Z
 DTSTART;VALUE=DATE:20240522
 DESCRIPTION:财务季度：Mar/2024。\n代码：PDD，公司：拼多多，行业: 电子商务。\n预计每股收益: $1.44，当前市值: $2
 	00\,120\,696\,869。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PDD \n在富途
@@ -150,9 +150,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:g6bLMukkEmbqcfaC6hXlS
+UID:rnSY0LygQaYZUw707ob2V
 SUMMARY:C3.ai 发布财报
-DTSTAMP:20240601T043908Z
+DTSTAMP:20240601T164050Z
 DTSTART;VALUE=DATE:20240529
 DESCRIPTION:财务季度：Apr/2024。\n代码：AI，公司：C3.ai，行业: 软件。\n预计每股收益: ($0.77)，当前市值: $
 	2\,941\,375\,863。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AI \n在富途查看
@@ -166,9 +166,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:yshR-nOFS2J4ZYxp7DSTA
+UID:MoZLU2E0_c_KuoKND8Mbc
 SUMMARY:蔚来 盘前发布财报
-DTSTAMP:20240601T043908Z
+DTSTAMP:20240601T164050Z
 DTSTART;VALUE=DATE:20240606
 DESCRIPTION:财务季度：Mar/2024。\n代码：NIO，公司：蔚来，行业: 汽车。\n预计每股收益: ($0.31)，当前市值: $11
 	\,235\,044\,244。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NIO \n在富途查看
