@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:GpIeTbOiErDhoHWa_KRxG
+UID:ElCYnkufb7RFYwDD9R4lB
 SUMMARY:理想汽车 发布财报
-DTSTAMP:20240616T164148Z
+DTSTAMP:20240617T044247Z
 DTSTART;VALUE=DATE:20240520
 DESCRIPTION:财务季度：Mar/2024。\n代码：LI，公司：理想汽车，行业: 汽车。\n预计每股收益: ，当前市值: $22\,732\
 	,761\,682。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LI \n在富途查看：https:
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:4pSDGaXtPwcQniNBnYCl_
+UID:L_NWND5rIl4ruzk59qUWY
 SUMMARY:小鹏汽车 发布财报
-DTSTAMP:20240616T164148Z
+DTSTAMP:20240617T044247Z
 DTSTART;VALUE=DATE:20240521
 DESCRIPTION:财务季度：Mar/2024。\n代码：XPEV，公司：小鹏汽车，行业: 汽车。\n预计每股收益: ，当前市值: $8\,267
 	\,641\,595。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=XPEV \n在富途查看：htt
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:UhM2Y5zX-maIdZLJBmglS
+UID:1Cs4DqL5xV0MfCSJEQm76
 SUMMARY:英伟达 盘后发布财报
-DTSTAMP:20240616T164148Z
+DTSTAMP:20240617T044247Z
 DTSTART;VALUE=DATE:20240522
 DESCRIPTION:财务季度：Apr/2024。\n代码：NVDA，公司：英伟达，行业: 电子商务。\n预计每股收益: $5.14，当前市值: $
 	2\,384\,650\,000\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NVDA 
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:q0cehKbegnHxc0C9xZmiM
+UID:7fE3_fP3LiJ1MdmuTL6wj
 SUMMARY:拼多多 发布财报
-DTSTAMP:20240616T164148Z
+DTSTAMP:20240617T044247Z
 DTSTART;VALUE=DATE:20240522
 DESCRIPTION:财务季度：Mar/2024。\n代码：PDD，公司：拼多多，行业: 电子商务。\n预计每股收益: $1.44，当前市值: $2
 	00\,120\,696\,869。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PDD \n在富途
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:V5pmPIh6dryfKQD14ekag
+UID:yR5vmlGsQOB2Zl9Qw72GY
 SUMMARY:C3.ai 发布财报
-DTSTAMP:20240616T164148Z
+DTSTAMP:20240617T044247Z
 DTSTART;VALUE=DATE:20240529
 DESCRIPTION:财务季度：Apr/2024。\n代码：AI，公司：C3.ai，行业: 软件。\n预计每股收益: ($0.77)，当前市值: $
 	2\,941\,375\,863。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AI \n在富途查看
@@ -86,9 +86,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ttATOYyDIGnwiYIqd_oo4
+UID:f0Q1elJOWuPHJhkXIzD-b
 SUMMARY:蔚来 发布财报
-DTSTAMP:20240616T164148Z
+DTSTAMP:20240617T044247Z
 DTSTART;VALUE=DATE:20240606
 DESCRIPTION:财务季度：Mar/2024。\n代码：NIO，公司：蔚来，行业: 汽车。\n预计每股收益: ($0.31)，当前市值: $10
 	\,215\,568\,007。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NIO \n在富途查看
