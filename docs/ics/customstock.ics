@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:WhJg8ge_ty1mXe1T1JNzJ
+UID:N6Dd2wionWPVt1UvtXaUH
 SUMMARY:英伟达 盘后发布财报
-DTSTAMP:20240621T044123Z
+DTSTAMP:20240621T164115Z
 DTSTART;VALUE=DATE:20240522
 DESCRIPTION:财务季度：Apr/2024。\n代码：NVDA，公司：英伟达，行业: 电子商务。\n预计每股收益: $5.14，当前市值: $
 	2\,384\,650\,000\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NVDA 
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:b-wVNdf-3XdM4tMHIHDG9
+UID:THw3T1SEphb0rMFY30Dni
 SUMMARY:拼多多 发布财报
-DTSTAMP:20240621T044123Z
+DTSTAMP:20240621T164115Z
 DTSTART;VALUE=DATE:20240522
 DESCRIPTION:财务季度：Mar/2024。\n代码：PDD，公司：拼多多，行业: 电子商务。\n预计每股收益: $1.44，当前市值: $2
 	00\,120\,696\,869。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PDD \n在富途
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:bq2JRdya6pC2bGazLs7dR
+UID:GpJdX1C884TdYqaNjDUZw
 SUMMARY:C3.ai 发布财报
-DTSTAMP:20240621T044123Z
+DTSTAMP:20240621T164115Z
 DTSTART;VALUE=DATE:20240529
 DESCRIPTION:财务季度：Apr/2024。\n代码：AI，公司：C3.ai，行业: 软件。\n预计每股收益: ($0.77)，当前市值: $
 	2\,941\,375\,863。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AI \n在富途查看
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:LvXFP8kMB1Allojiwz9E2
+UID:aCATxvabSatJbSYv1hkTD
 SUMMARY:蔚来 发布财报
-DTSTAMP:20240621T044123Z
+DTSTAMP:20240621T164116Z
 DTSTART;VALUE=DATE:20240606
 DESCRIPTION:财务季度：Mar/2024。\n代码：NIO，公司：蔚来，行业: 汽车。\n预计每股收益: ($0.31)，当前市值: $10
 	\,215\,568\,007。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NIO \n在富途查看
@@ -70,12 +70,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:-7c-dIeKPS1Bnzdi88t7j
+UID:8TcwXC7XzdJf2s5UIumPn
 SUMMARY:特斯拉 发布财报
-DTSTAMP:20240621T044123Z
+DTSTAMP:20240621T164116Z
 DTSTART;VALUE=DATE:20240717
 DESCRIPTION:财务季度：Jun/2024。\n代码：TSLA，公司：特斯拉，行业: 电子商务。\n预计每股收益: $0.47，当前市值: $
-	589\,554\,803\,431。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA \n在
+	579\,062\,348\,042。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA \n在
 	富途查看：https://www.futunn.com/hk/stock/TSLA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -86,12 +86,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ZsaxOMOnwFbvERKkmm8CR
+UID:Gm7Jvj-hQsEbn8YvksuqR
 SUMMARY:台积电 发布财报
-DTSTAMP:20240621T044123Z
+DTSTAMP:20240621T164116Z
 DTSTART;VALUE=DATE:20240718
-DESCRIPTION:财务季度：Jun/2024。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $1.34，当前市值: $93
-	1\,946\,767\,238。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在富途查
+DESCRIPTION:财务季度：Jun/2024。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $1.34，当前市值: $90
+	9\,593\,322\,045。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在富途查
 	看：https://www.futunn.com/hk/stock/TSM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -102,12 +102,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:-BvDhx0QARBD4vEL--FP-
+UID:IdrVLw3cHHYThtE_SH_nv
 SUMMARY:NETFLIX 盘后发布财报
-DTSTAMP:20240621T044123Z
+DTSTAMP:20240621T164116Z
 DTSTART;VALUE=DATE:20240718
 DESCRIPTION:财务季度：Jun/2024。\n代码：NFLX，公司：NETFLIX，行业: 电子商务。\n预计每股收益: $4.70，当前市
-	值: $295\,499\,765\,378。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NFLX
+	值: $292\,638\,157\,838。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NFLX
 	 \n在富途查看：https://www.futunn.com/hk/stock/NFLX-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
