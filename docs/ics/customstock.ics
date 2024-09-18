@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:4U62SSs8xwVnb2AoD7DYK
+UID:ulE86kTeMklsH-koGOUvi
 SUMMARY:小鹏汽车 发布财报
-DTSTAMP:20240918T044324Z
+DTSTAMP:20240918T164516Z
 DTSTART;VALUE=DATE:20240820
 DESCRIPTION:财务季度：Jun/2024。\n代码：XPEV，公司：小鹏汽车，行业: 汽车。\n预计每股收益: ，当前市值: $6\,382
 	\,204\,515。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=XPEV \n在富途查看：htt
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:tY6F8XaeOx1yc3yNA5RXc
+UID:5jr22YxOOm-wg4jU1Vsm9
 SUMMARY:拼多多 发布财报
-DTSTAMP:20240918T044324Z
+DTSTAMP:20240918T164516Z
 DTSTART;VALUE=DATE:20240826
 DESCRIPTION:财务季度：Jun/2024。\n代码：PDD，公司：拼多多，行业: 电子商务。\n预计每股收益: $2.67，当前市值: $1
 	92\,443\,326\,717。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PDD \n在富途
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:bpD94PhkBDRsQMUcKLqKA
+UID:3E6s_mIBWxj2OARMhn3yM
 SUMMARY:英伟达 发布财报
-DTSTAMP:20240918T044324Z
+DTSTAMP:20240918T164516Z
 DTSTART;VALUE=DATE:20240828
 DESCRIPTION:财务季度：Jul/2024。\n代码：NVDA，公司：英伟达，行业: 电子商务。\n预计每股收益: $0.60，当前市值: $
 	3\,089\,797\,734\,851。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NVDA 
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:9jRzNdKYtaZpaPTx_XqPC
+UID:ywDoU0P8UOKrHcU7vJXxv
 SUMMARY:理想汽车 发布财报
-DTSTAMP:20240918T044324Z
+DTSTAMP:20240918T164516Z
 DTSTART;VALUE=DATE:20240828
 DESCRIPTION:财务季度：Jun/2024。\n代码：LI，公司：理想汽车，行业: 汽车。\n预计每股收益: ，当前市值: $18\,638\
 	,560\,937。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LI \n在富途查看：https:
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:WBq3ia2ZgI8GXRc000GhX
+UID:esTC2sP8_fJ5d1iCzJbkF
 SUMMARY:C3.ai 发布财报
-DTSTAMP:20240918T044324Z
+DTSTAMP:20240918T164516Z
 DTSTART;VALUE=DATE:20240904
 DESCRIPTION:财务季度：Jul/2024。\n代码：AI，公司：C3.ai，行业: 软件。\n预计每股收益: ($0.58)，当前市值: $
 	2\,872\,057\,025。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AI \n在富途查看
@@ -86,9 +86,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:3EmDrYWJQZRDF4koMnkcr
+UID:cbMVbEU6o8mVZ7nuIunwG
 SUMMARY:蔚来 发布财报
-DTSTAMP:20240918T044324Z
+DTSTAMP:20240918T164516Z
 DTSTART;VALUE=DATE:20240905
 DESCRIPTION:财务季度：Jun/2024。\n代码：NIO，公司：蔚来，行业: 汽车。\n预计每股收益: ($0.46)，当前市值: $8\
 	,849\,596\,670。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NIO \n在富途查看：
@@ -102,12 +102,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:pQCEngMZU8ugQtFEUB6lw
+UID:7avl2-MoZhK9sJ7k-KPV2
 SUMMARY:特斯拉 发布财报
-DTSTAMP:20240918T044324Z
+DTSTAMP:20240918T164516Z
 DTSTART;VALUE=DATE:20241016
 DESCRIPTION:财务季度：Sep/2024。\n代码：TSLA，公司：特斯拉，行业: 电子商务。\n预计每股收益: $0.46，当前市值: $
-	735\,693\,741\,170。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA \n在
+	724\,480\,553\,313。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA \n在
 	富途查看：https://www.futunn.com/hk/stock/TSLA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -118,13 +118,13 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wxToNuggiGrd919vrOZWm
-SUMMARY:NETFLIX 发布财报
-DTSTAMP:20240918T044324Z
-DTSTART;VALUE=DATE:20241016
-DESCRIPTION:财务季度：Sep/2024。\n代码：NFLX，公司：NETFLIX，行业: 电子商务。\n预计每股收益: $5.07，当前市
-	值: $299\,153\,486\,531。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NFLX
-	 \n在富途查看：https://www.futunn.com/hk/stock/NFLX-US 
+UID:wIsBRdKMoIEzcg_eUQ0jD
+SUMMARY:台积电 发布财报
+DTSTAMP:20240918T164516Z
+DTSTART;VALUE=DATE:20241017
+DESCRIPTION:财务季度：Sep/2024。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $1.74，当前市值: $86
+	7\,946\,416\,035。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在富途查
+	看：https://www.futunn.com/hk/stock/TSM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 BEGIN:VALARM
@@ -134,13 +134,13 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:xhzNA6vU20P1HDuePlHjK
-SUMMARY:台积电 发布财报
-DTSTAMP:20240918T044324Z
+UID:Z-C90mNOx9a7FMLFoXXvi
+SUMMARY:NETFLIX 盘前发布财报
+DTSTAMP:20240918T164516Z
 DTSTART;VALUE=DATE:20241017
-DESCRIPTION:财务季度：Sep/2024。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $1.74，当前市值: $89
-	4\,656\,449\,155。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在富途查
-	看：https://www.futunn.com/hk/stock/TSM-US 
+DESCRIPTION:财务季度：Sep/2024。\n代码：NFLX，公司：NETFLIX，行业: 电子商务。\n预计每股收益: $5.07，当前市
+	值: $303\,380\,757\,989。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NFLX
+	 \n在富途查看：https://www.futunn.com/hk/stock/NFLX-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 BEGIN:VALARM
