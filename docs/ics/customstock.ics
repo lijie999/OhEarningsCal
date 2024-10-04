@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:XPoEPdVoeynCyTT8w8VPJ
+UID:SZVeSRVVYkE_hJ8lT0jTg
 SUMMARY:C3.ai 发布财报
-DTSTAMP:20241004T044348Z
+DTSTAMP:20241004T164624Z
 DTSTART;VALUE=DATE:20240904
 DESCRIPTION:财务季度：Jul/2024。\n代码：AI，公司：C3.ai，行业: 软件。\n预计每股收益: ($0.58)，当前市值: $
 	2\,872\,057\,025。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AI \n在富途查看
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:uriEnq7tVzBEVhuFWWxwo
+UID:UeOHFtl4XyOBISVdn-6m1
 SUMMARY:蔚来 发布财报
-DTSTAMP:20241004T044348Z
+DTSTAMP:20241004T164624Z
 DTSTART;VALUE=DATE:20240905
 DESCRIPTION:财务季度：Jun/2024。\n代码：NIO，公司：蔚来，行业: 汽车。\n预计每股收益: ($0.46)，当前市值: $8\
 	,849\,596\,670。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NIO \n在富途查看：
@@ -38,12 +38,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:z3xiBYGmHsThjGaRKqgJY
+UID:qphK0cincTVLa1D89ubKA
 SUMMARY:特斯拉 发布财报
-DTSTAMP:20241004T044348Z
+DTSTAMP:20241004T164624Z
 DTSTART;VALUE=DATE:20241016
 DESCRIPTION:财务季度：Sep/2024。\n代码：TSLA，公司：特斯拉，行业: 电子商务。\n预计每股收益: $0.46，当前市值: $
-	795\,529\,356\,143。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA \n在
+	768\,822\,162\,273。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA \n在
 	富途查看：https://www.futunn.com/hk/stock/TSLA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -54,12 +54,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:qSE3UyZoOPP8wHyQHRdv8
+UID:5a6LfXPcUZIHLub7Sw9v7
 SUMMARY:台积电 发布财报
-DTSTAMP:20241004T044348Z
+DTSTAMP:20241004T164624Z
 DTSTART;VALUE=DATE:20241017
-DESCRIPTION:财务季度：Sep/2024。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $1.74，当前市值: $91
-	1\,771\,616\,008。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在富途查
+DESCRIPTION:财务季度：Sep/2024。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $1.74，当前市值: $93
+	0\,857\,620\,257。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在富途查
 	看：https://www.futunn.com/hk/stock/TSM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -70,12 +70,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:s-PaHRdHtnz77qZ64g29I
+UID:nLxEBbsuqQcIjW9jaiFHJ
 SUMMARY:NETFLIX 盘前发布财报
-DTSTAMP:20241004T044348Z
+DTSTAMP:20241004T164624Z
 DTSTART;VALUE=DATE:20241017
 DESCRIPTION:财务季度：Sep/2024。\n代码：NFLX，公司：NETFLIX，行业: 电子商务。\n预计每股收益: $5.07，当前市
-	值: $305\,174\,666\,080。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NFLX
+	值: $303\,333\,549\,882。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NFLX
 	 \n在富途查看：https://www.futunn.com/hk/stock/NFLX-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -86,12 +86,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:WXOUmVXvPEH2q-r4V6W3R
+UID:qM6_sbSpqkPmiFuv46qgS
 SUMMARY:微软 发布财报
-DTSTAMP:20241004T044348Z
+DTSTAMP:20241004T164624Z
 DTSTART;VALUE=DATE:20241022
 DESCRIPTION:财务季度：Sep/2024。\n代码：MSFT，公司：微软，行业: 电子商务。\n预计每股收益: $3.08，当前市值: $3
-	\,100\,543\,299\,866。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MSFT \
+	\,096\,157\,807\,221。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MSFT \
 	n在富途查看：https://www.futunn.com/hk/stock/MSFT-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -102,12 +102,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2NmbHJpSuamh1hc84UUp2
+UID:RCTkkuY71I_ICWm7oYdmd
 SUMMARY:谷歌 发布财报
-DTSTAMP:20241004T044348Z
+DTSTAMP:20241004T164624Z
 DTSTART;VALUE=DATE:20241022
 DESCRIPTION:财务季度：Sep/2024。\n代码：GOOG，公司：谷歌，行业: 电子商务。\n预计每股收益: $1.83，当前市值: $2
-	\,059\,586\,100\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GOOG \
+	\,058\,355\,100\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GOOG \
 	n在富途查看：https://www.futunn.com/hk/stock/GOOG-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -118,9 +118,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:qPBiupuj15aYqz-QnnB89
+UID:eSGCCekwKMmiL3DIC4tWr
 SUMMARY:亚马逊 发布财报
-DTSTAMP:20241004T044348Z
+DTSTAMP:20241004T164624Z
 DTSTART;VALUE=DATE:20241024
 DESCRIPTION:财务季度：Sep/2024。\n代码：AMZN，公司：亚马逊，行业: 电子商务。\n预计每股收益: $1.14，当前市值: $
 	1\,939\,160\,936\,933。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMZN 
@@ -134,9 +134,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:_ioze72aKvxfLaDx9tWO6
+UID:B2WdGmGqRC91LKLb1se-G
 SUMMARY:INTEL 发布财报
-DTSTAMP:20241004T044348Z
+DTSTAMP:20241004T164624Z
 DTSTART;VALUE=DATE:20241024
 DESCRIPTION:财务季度：Sep/2024。\n代码：INTC，公司：INTEL，行业: 电子商务。\n预计每股收益: ($0.20)，当前市
 	值: $95\,739\,640\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=INTC 
@@ -150,12 +150,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wZwDstBns4nQMaYT_FfX7
+UID:Us2YEnk0qai6mkDIvoXeJ
 SUMMARY:超威电子 发布财报
-DTSTAMP:20241004T044348Z
+DTSTAMP:20241004T164624Z
 DTSTART;VALUE=DATE:20241029
 DESCRIPTION:财务季度：Sep/2024。\n代码：AMD，公司：超威电子，行业: 电子商务。\n预计每股收益: $0.71，当前市值: $
-	258\,601\,029\,194。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMD \n在富
+	263\,569\,768\,458。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMD \n在富
 	途查看：https://www.futunn.com/hk/stock/AMD-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -166,12 +166,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:p7r03iEX9cu4cdL2q0VeV
+UID:NKyN5EpA1AKhrAS80d6-H
 SUMMARY:META 盘后发布财报
-DTSTAMP:20241004T044348Z
+DTSTAMP:20241004T164624Z
 DTSTART;VALUE=DATE:20241030
 DESCRIPTION:财务季度：Sep/2024。\n代码：META，公司：META，行业: 电子商务。\n预计每股收益: $5.15，当前市值: 
-	$1\,449\,104\,334\,285。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=META
+	$1\,474\,301\,309\,145。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=META
 	 \n在富途查看：https://www.futunn.com/hk/stock/META-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
