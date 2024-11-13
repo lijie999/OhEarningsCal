@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:qggcOi97S37Nh6dycYG-K
+UID:qTkO7Zk9-Cz8hdmLsZS2X
 SUMMARY:台积电 盘前发布财报
-DTSTAMP:20241112T164637Z
+DTSTAMP:20241113T044334Z
 DTSTART;VALUE=DATE:20241017
 DESCRIPTION:财务季度：Sep/2024。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $1.74，当前市值: $97
 	2\,348\,933\,841。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在富途查
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:GGusLO08Icd4-cUK22TAU
+UID:xYIEZZcZHKRuHMopxvKit
 SUMMARY:NETFLIX 盘后发布财报
-DTSTAMP:20241112T164637Z
+DTSTAMP:20241113T044334Z
 DTSTART;VALUE=DATE:20241017
 DESCRIPTION:财务季度：Sep/2024。\n代码：NFLX，公司：NETFLIX，行业: 电子商务。\n预计每股收益: $5.09，当前市
 	值: $301\,273\,559\,730。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NFLX
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:tIloOv4igGKOlES-E_ayE
+UID:u0RAvCgOWoG-dzue3Ffvf
 SUMMARY:特斯拉 发布财报
-DTSTAMP:20241112T164637Z
+DTSTAMP:20241113T044334Z
 DTSTART;VALUE=DATE:20241023
 DESCRIPTION:财务季度：Sep/2024。\n代码：TSLA，公司：特斯拉，行业: 电子商务。\n预计每股收益: $0.46，当前市值: $
 	682\,534\,924\,664。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA \n在
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:tqEgLwDYwN9tbHLy22TXl
+UID:ValN2A7QPTj9WwVefnRhF
 SUMMARY:谷歌 发布财报
-DTSTAMP:20241112T164637Z
+DTSTAMP:20241113T044334Z
 DTSTART;VALUE=DATE:20241029
 DESCRIPTION:财务季度：Sep/2024。\n代码：GOOG，公司：谷歌，行业: 电子商务。\n预计每股收益: $1.83，当前市值: $2
 	\,106\,733\,400\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GOOG \
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:iL0V1XxnuXtvkgQQp0kDA
+UID:i6N2jqSzQoPUbxCeLnvKX
 SUMMARY:超威电子 发布财报
-DTSTAMP:20241112T164637Z
+DTSTAMP:20241113T044334Z
 DTSTART;VALUE=DATE:20241029
 DESCRIPTION:财务季度：Sep/2024。\n代码：AMD，公司：超威电子，行业: 电子商务。\n预计每股收益: $0.71，当前市值: $
 	269\,072\,606\,731。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMD \n在富
@@ -86,9 +86,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1Isw6eMshCN-yZjA1xvay
+UID:X-tM0r3yde8VZovBhOgAD
 SUMMARY:微软 发布财报
-DTSTAMP:20241112T164637Z
+DTSTAMP:20241113T044334Z
 DTSTART;VALUE=DATE:20241030
 DESCRIPTION:财务季度：Sep/2024。\n代码：MSFT，公司：微软，行业: 电子商务。\n预计每股收益: $3.08，当前市值: $3
 	\,210\,700\,928\,672。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MSFT \
@@ -102,9 +102,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:HgqqL3ZnREoCcbGc5WQgz
+UID:7zu0ShmJRamAKDMjqwh2_
 SUMMARY:META 发布财报
-DTSTAMP:20241112T164637Z
+DTSTAMP:20241113T044334Z
 DTSTART;VALUE=DATE:20241030
 DESCRIPTION:财务季度：Sep/2024。\n代码：META，公司：META，行业: 电子商务。\n预计每股收益: $5.19，当前市值: 
 	$1\,500\,889\,683\,219。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=META
@@ -118,9 +118,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:SOLYWKpu6RHVw8iJ_Q35x
+UID:LYUpplFaK11qc-_owz640
 SUMMARY:苹果 发布财报
-DTSTAMP:20241112T164637Z
+DTSTAMP:20241113T044334Z
 DTSTART;VALUE=DATE:20241031
 DESCRIPTION:财务季度：Sep/2024。\n代码：AAPL，公司：苹果，行业: 电子商务。\n预计每股收益: $1.49，当前市值: $3
 	\,498\,471\,923\,700。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AAPL \
@@ -134,9 +134,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:HlBc68MaeT94Z7CwIDfjk
+UID:OQUH8SaHbZtK0f4Z8_Pip
 SUMMARY:亚马逊 发布财报
-DTSTAMP:20241112T164637Z
+DTSTAMP:20241113T044334Z
 DTSTART;VALUE=DATE:20241031
 DESCRIPTION:财务季度：Sep/2024。\n代码：AMZN，公司：亚马逊，行业: 电子商务。\n预计每股收益: $1.14，当前市值: $
 	2\,022\,810\,604\,975。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMZN 
@@ -150,9 +150,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:cfMUMmGFMeGrzIqG1aoQB
+UID:ofpLSeV7vCwTZqQ5g6dLf
 SUMMARY:INTEL 发布财报
-DTSTAMP:20241112T164637Z
+DTSTAMP:20241113T044334Z
 DTSTART;VALUE=DATE:20241031
 DESCRIPTION:财务季度：Sep/2024。\n代码：INTC，公司：INTEL，行业: 电子商务。\n预计每股收益: ($0.20)，当前市
 	值: $95\,354\,800\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=INTC 
@@ -166,9 +166,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:bI3QEi9tk5QYu_uNPhqt4
+UID:2CzbexcmyNhLqKwoYVcZB
 SUMMARY:理想汽车 发布财报
-DTSTAMP:20241112T164637Z
+DTSTAMP:20241113T044334Z
 DTSTART;VALUE=DATE:20241031
 DESCRIPTION:财务季度：Sep/2024。\n代码：LI，公司：理想汽车，行业: 汽车。\n预计每股收益: ，当前市值: $30\,303\
 	,368\,175。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LI \n在富途查看：https:
@@ -182,9 +182,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:gQBYzMH7LCa3DCk61nhDx
+UID:lA2Xssq8GRWOyvdxsQ4DL
 SUMMARY:Arm 发布财报
-DTSTAMP:20241112T164637Z
+DTSTAMP:20241113T044334Z
 DTSTART;VALUE=DATE:20241106
 DESCRIPTION:财务季度：Sep/2024。\n代码：ARM，公司：Arm，行业: 半导体。\n预计每股收益: $0.08，当前市值: $15
 	0\,515\,016\,305。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ARM \n在富途查
@@ -198,12 +198,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:MNmRan6e8lrFnFO2snLpn
+UID:SvluoZYIz2XaN5g0NV2kv
 SUMMARY:迪士尼 盘前发布财报
-DTSTAMP:20241112T164637Z
+DTSTAMP:20241113T044334Z
 DTSTART;VALUE=DATE:20241114
 DESCRIPTION:财务季度：Sep/2024。\n代码：DIS，公司：迪士尼，行业: 电子商务。\n预计每股收益: $1.09，当前市值: $1
-	82\,918\,423\,146。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=DIS \n在富途
+	79\,581\,422\,367。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=DIS \n在富途
 	查看：https://www.futunn.com/hk/stock/DIS-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -214,12 +214,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:cpM5q25rLO3QAX-J_cHyE
+UID:JVXudOy8anf9fPtsICO2G
 SUMMARY:京东 盘前发布财报
-DTSTAMP:20241112T164637Z
+DTSTAMP:20241113T044334Z
 DTSTART;VALUE=DATE:20241114
-DESCRIPTION:财务季度：Sep/2024。\n代码：JD，公司：京东，行业: 电子商务。\n预计每股收益: $1.04，当前市值: $61\
-	,344\,047\,637。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JD \n在富途查看：h
+DESCRIPTION:财务季度：Sep/2024。\n代码：JD，公司：京东，行业: 电子商务。\n预计每股收益: $1.04，当前市值: $60\
+	,290\,728\,521。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JD \n在富途查看：h
 	ttps://www.futunn.com/hk/stock/JD-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -230,9 +230,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:YopSB9felX-G9EICVxB3L
+UID:bWKH6sObO28EoOlqBtLb5
 SUMMARY:阿里巴巴 盘前发布财报
-DTSTAMP:20241112T164637Z
+DTSTAMP:20241113T044334Z
 DTSTART;VALUE=DATE:20241115
 DESCRIPTION:财务季度：Sep/2024。\n代码：BABA，公司：阿里巴巴，行业: 电子商务。\n预计每股收益: $2.01，当前市值: 
 	$232\,218\,011\,815。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BABA \n
@@ -246,9 +246,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:uN330JlhjfNOf1hlxfsbM
+UID:ZbUd4mY00vrH-z2rVMC89
 SUMMARY:小鹏汽车 盘前发布财报
-DTSTAMP:20241112T164637Z
+DTSTAMP:20241113T044334Z
 DTSTART;VALUE=DATE:20241119
 DESCRIPTION:财务季度：Sep/2024。\n代码：XPEV，公司：小鹏汽车，行业: 汽车。\n预计每股收益: ，当前市值: $13\,65
 	9\,991\,644。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=XPEV \n在富途查看：ht
@@ -262,9 +262,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:SdtjoMPmKv9euOSmANQYa
+UID:1pFjx7K_CweB5RPjJUw9D
 SUMMARY:英伟达 盘后发布财报
-DTSTAMP:20241112T164637Z
+DTSTAMP:20241113T044334Z
 DTSTART;VALUE=DATE:20241120
 DESCRIPTION:财务季度：Oct/2024。\n代码：NVDA，公司：英伟达，行业: 电子商务。\n预计每股收益: $0.70，当前市值: $
 	3\,621\,363\,900\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NVDA 
@@ -278,9 +278,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Fut1o8otAsO-TQJFAUcvB
+UID:o62v3u6R_B5VH4jmldVxa
 SUMMARY:蔚来 盘前发布财报
-DTSTAMP:20241112T164637Z
+DTSTAMP:20241113T044334Z
 DTSTART;VALUE=DATE:20241120
 DESCRIPTION:财务季度：Sep/2024。\n代码：NIO，公司：蔚来，行业: 汽车。\n预计每股收益: ($0.32)，当前市值: $10
 	\,623\,690\,342。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NIO \n在富途查看
@@ -294,9 +294,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Dtsg4F4o5nyJkiM40f6Jp
+UID:99T-4SUA0MHByBkvCgV33
 SUMMARY:拼多多 发布财报
-DTSTAMP:20241112T164637Z
+DTSTAMP:20241113T044334Z
 DTSTART;VALUE=DATE:20241126
 DESCRIPTION:财务季度：Sep/2024。\n代码：PDD，公司：拼多多，行业: 电子商务。\n预计每股收益: $2.62，当前市值: $1
 	61\,183\,496\,997。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PDD \n在富途
@@ -310,12 +310,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:5lKecYvOttIFdub6yQai6
+UID:bfRLS2A-thq2R-Pn-2DvK
 SUMMARY:C3.ai 盘后发布财报
-DTSTAMP:20241112T164637Z
+DTSTAMP:20241113T044334Z
 DTSTART;VALUE=DATE:20241209
 DESCRIPTION:财务季度：Oct/2024。\n代码：AI，公司：C3.ai，行业: 软件。\n预计每股收益: ($0.59)，当前市值: $
-	3\,581\,052\,884。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AI \n在富途查看
+	3\,501\,022\,259。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AI \n在富途查看
 	：https://www.futunn.com/hk/stock/AI-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
