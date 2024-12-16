@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:6FPUSvnexxLo_q3oa3lFF
+UID:bS30ye5rPeisIQop91Su3
 SUMMARY:小鹏汽车 发布财报
-DTSTAMP:20241216T044624Z
+DTSTAMP:20241216T164927Z
 DTSTART;VALUE=DATE:20241119
 DESCRIPTION:财务季度：Sep/2024。\n代码：XPEV，公司：小鹏汽车，行业: 汽车。\n预计每股收益: ，当前市值: $11\,80
 	2\,836\,120。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=XPEV \n在富途查看：ht
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ozep4EqvZqEwz0FFPbxEc
+UID:wL9hw6w4GttgaCG7UA3yS
 SUMMARY:英伟达 发布财报
-DTSTAMP:20241216T044624Z
+DTSTAMP:20241216T164927Z
 DTSTART;VALUE=DATE:20241120
 DESCRIPTION:财务季度：Oct/2024。\n代码：NVDA，公司：英伟达，行业: 电子商务。\n预计每股收益: $0.70，当前市值: $
 	3\,606\,155\,300\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NVDA 
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:T1YAImYQGYjqe6Op9xLOf
+UID:zG1Cmge-UGw5jsUNC4WpT
 SUMMARY:蔚来 发布财报
-DTSTAMP:20241216T044624Z
+DTSTAMP:20241216T164927Z
 DTSTART;VALUE=DATE:20241120
 DESCRIPTION:财务季度：Sep/2024。\n代码：NIO，公司：蔚来，行业: 汽车。\n预计每股收益: ($0.32)，当前市值: $9\
 	,663\,592\,590。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NIO \n在富途查看：
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:x0aiX93awI0fh1z4tPU_Y
+UID:wAan9UiMZs_zWWXYfKD8D
 SUMMARY:拼多多 发布财报
-DTSTAMP:20241216T044624Z
+DTSTAMP:20241216T164927Z
 DTSTART;VALUE=DATE:20241121
 DESCRIPTION:财务季度：Sep/2024。\n代码：PDD，公司：拼多多，行业: 电子商务。\n预计每股收益: $2.62，当前市值: $1
 	43\,214\,598\,398。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PDD \n在富途
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:YeaIgFiF_xKGwqavzhVZr
+UID:uGQ4YwOI5D59Y9m4E52fy
 SUMMARY:C3.ai 发布财报
-DTSTAMP:20241216T044624Z
+DTSTAMP:20241216T164927Z
 DTSTART;VALUE=DATE:20241209
 DESCRIPTION:财务季度：Oct/2024。\n代码：AI，公司：C3.ai，行业: 软件。\n预计每股收益: ($0.59)，当前市值: $
 	5\,147\,366\,543。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AI \n在富途查看
