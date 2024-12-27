@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:no2nwOcW79U0I-ZgTReK5
+UID:6vDOmsRMLtfPWXL4OjAsT
 SUMMARY:C3.ai 发布财报
-DTSTAMP:20241226T164416Z
+DTSTAMP:20241227T044322Z
 DTSTART;VALUE=DATE:20241209
 DESCRIPTION:财务季度：Oct/2024。\n代码：AI，公司：C3.ai，行业: 软件。\n预计每股收益: ($0.59)，当前市值: $
 	5\,147\,366\,543。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AI \n在富途查看
@@ -22,12 +22,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:yZX6daabpdKi9JT0eNHkq
+UID:FKwj-UrnWwAD94bT3Rtar
 SUMMARY:台积电 发布财报
-DTSTAMP:20241226T164416Z
+DTSTAMP:20241227T044322Z
 DTSTART;VALUE=DATE:20250116
 DESCRIPTION:财务季度：Dec/2024。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $2.16，当前市值: $1\
-	,070\,112\,841\,473。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
+	,075\,454\,848\,097。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
 	富途查看：https://www.futunn.com/hk/stock/TSM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -38,12 +38,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:6azS67O9TONq167aZGZAb
+UID:LrVdlL5jjUKjTZcnuWSIG
 SUMMARY:NETFLIX 盘后发布财报
-DTSTAMP:20241226T164416Z
+DTSTAMP:20241227T044322Z
 DTSTART;VALUE=DATE:20250121
 DESCRIPTION:财务季度：Dec/2024。\n代码：NFLX，公司：NETFLIX，行业: 电子商务。\n预计每股收益: $4.21，当前市
-	值: $398\,442\,257\,221。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NFLX
+	值: $389\,606\,698\,005。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NFLX
 	 \n在富途查看：https://www.futunn.com/hk/stock/NFLX-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -54,12 +54,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:UPgGjzT2MpRHKMj0i0S4P
+UID:KmuCl7D3JX-_HjVC_AYW4
 SUMMARY:特斯拉 发布财报
-DTSTAMP:20241226T164416Z
+DTSTAMP:20241227T044322Z
 DTSTART;VALUE=DATE:20250122
 DESCRIPTION:财务季度：Dec/2024。\n代码：TSLA，公司：特斯拉，行业: 电子商务。\n预计每股收益: $0.65，当前市值: $
-	1\,483\,946\,379\,162。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA 
+	1\,382\,251\,689\,165。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA 
 	\n在富途查看：https://www.futunn.com/hk/stock/TSLA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:eYKde4DGdlzww3qU3GBR1
+UID:tAmXNGfemjp9qTRvkf_iZ
 SUMMARY:INTEL 发布财报
-DTSTAMP:20241226T164416Z
+DTSTAMP:20241227T044322Z
 DTSTART;VALUE=DATE:20250123
 DESCRIPTION:财务季度：Dec/2024。\n代码：INTC，公司：INTEL，行业: 电子商务。\n预计每股收益: ($0.04)，当前市
 	值: $87\,985\,200\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=INTC 
