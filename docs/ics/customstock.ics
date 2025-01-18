@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:mqUBBbazYQB0qYfGBdEyy
+UID:TvzZG5vJ2RJmMGVNOUk8g
 SUMMARY:台积电 发布财报
-DTSTAMP:20250117T164348Z
+DTSTAMP:20250118T044108Z
 DTSTART;VALUE=DATE:20250116
 DESCRIPTION:财务季度：Dec/2024。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $2.16，当前市值: $1\
 	,113\,989\,905\,588。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:hWoKrOlhXhYm8peGfLKzT
+UID:Kip9--E90URCVCLikqT1S
 SUMMARY:NETFLIX 盘后发布财报
-DTSTAMP:20250117T164348Z
+DTSTAMP:20250118T044108Z
 DTSTART;VALUE=DATE:20250121
 DESCRIPTION:财务季度：Dec/2024。\n代码：NFLX，公司：NETFLIX，行业: 电子商务。\n预计每股收益: $4.19，当前市
 	值: $360\,077\,891\,490。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NFLX
@@ -38,12 +38,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:_AZPA1azm_WlLkpWMDeBD
+UID:0Vm5Sh458cIcqLUMXK-Sy
 SUMMARY:微软 盘后发布财报
-DTSTAMP:20250117T164348Z
+DTSTAMP:20250118T044108Z
 DTSTART;VALUE=DATE:20250129
 DESCRIPTION:财务季度：Dec/2024。\n代码：MSFT，公司：微软，行业: 电子商务。\n预计每股收益: $3.13，当前市值: $3
-	\,169\,564\,023\,616。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MSFT \
+	\,156\,701\,679\,874。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MSFT \
 	n在富途查看：https://www.futunn.com/hk/stock/MSFT-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -54,12 +54,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:GMxIs3dYaPAfp_lzD6Udf
+UID:dy_iGgD16GdsRwrLHNCBh
 SUMMARY:META 盘后发布财报
-DTSTAMP:20250117T164348Z
+DTSTAMP:20250118T044108Z
 DTSTART;VALUE=DATE:20250129
 DESCRIPTION:财务季度：Dec/2024。\n代码：META，公司：META，行业: 电子商务。\n预计每股收益: $6.75，当前市值: 
-	$1\,557\,912\,363\,484。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=META
+	$1\,543\,219\,840\,222。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=META
 	 \n在富途查看：https://www.futunn.com/hk/stock/META-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -70,12 +70,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:v6RzP6kflZ7_BA6KSXjye
+UID:LLHdCOebfUg5HPKl5h8eG
 SUMMARY:特斯拉 盘后发布财报
-DTSTAMP:20250117T164348Z
+DTSTAMP:20250118T044108Z
 DTSTART;VALUE=DATE:20250129
 DESCRIPTION:财务季度：Dec/2024。\n代码：TSLA，公司：特斯拉，行业: 电子商务。\n预计每股收益: $0.64，当前市值: $
-	1\,374\,611\,747\,176。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA 
+	1\,328\,386\,888\,087。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA 
 	\n在富途查看：https://www.futunn.com/hk/stock/TSLA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -86,9 +86,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:3jcOhYglWIGVB23QgRaEo
+UID:lcFXBhtYWgdgpvkfP9GWx
 SUMMARY:苹果 盘后发布财报
-DTSTAMP:20250117T164348Z
+DTSTAMP:20250118T044108Z
 DTSTART;VALUE=DATE:20250130
 DESCRIPTION:财务季度：Dec/2024。\n代码：AAPL，公司：苹果，行业: 电子商务。\n预计每股收益: $2.36，当前市值: $3
 	\,450\,337\,757\,980。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AAPL \
@@ -102,9 +102,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ucQSV4Odwi51A7B_-9Cyg
+UID:_qbIivZ5g_DClJhpt8v6Y
 SUMMARY:INTEL 盘后发布财报
-DTSTAMP:20250117T164348Z
+DTSTAMP:20250118T044108Z
 DTSTART;VALUE=DATE:20250130
 DESCRIPTION:财务季度：Dec/2024。\n代码：INTC，公司：INTEL，行业: 电子商务。\n预计每股收益: ($0.04)，当前市
 	值: $84\,836\,710\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=INTC 
@@ -118,9 +118,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:sSopRsRAQEBBcQ1qgIGvN
+UID:ayIyLQTpYStVYa5xjfwqi
 SUMMARY:谷歌 发布财报
-DTSTAMP:20250117T164348Z
+DTSTAMP:20250118T044108Z
 DTSTART;VALUE=DATE:20250204
 DESCRIPTION:财务季度：Dec/2024。\n代码：GOOG，公司：谷歌，行业: 电子商务。\n预计每股收益: $2.12，当前市值: $2
 	\,379\,772\,810\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GOOG \
@@ -134,9 +134,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:YxGca2wOTC1IGxByVnsiR
+UID:wzlVIeeabsNrwRgyyywF7
 SUMMARY:超威电子 盘后发布财报
-DTSTAMP:20250117T164348Z
+DTSTAMP:20250118T044108Z
 DTSTART;VALUE=DATE:20250204
 DESCRIPTION:财务季度：Dec/2024。\n代码：AMD，公司：超威电子，行业: 电子商务。\n预计每股收益: $0.88，当前市值: $
 	192\,205\,302\,060。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMD \n在富
@@ -150,9 +150,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Lk9l6jWGzqpuFLrfyZoYe
+UID:5ESbUNsJrZ2D3UXcTYUmG
 SUMMARY:阿里巴巴 发布财报
-DTSTAMP:20250117T164348Z
+DTSTAMP:20250118T044108Z
 DTSTART;VALUE=DATE:20250205
 DESCRIPTION:财务季度：Dec/2024。\n代码：BABA，公司：阿里巴巴，行业: 电子商务。\n预计每股收益: $2.82，当前市值: 
 	$200\,605\,016\,914。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BABA \n
@@ -166,9 +166,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:HlTZ7IaWeieLDOOSwz8Y9
+UID:C6R-tJWvzF0_HlE7Rlve6
 SUMMARY:迪士尼 盘前发布财报
-DTSTAMP:20250117T164348Z
+DTSTAMP:20250118T044108Z
 DTSTART;VALUE=DATE:20250205
 DESCRIPTION:财务季度：Dec/2024。\n代码：DIS，公司：迪士尼，行业: 电子商务。\n预计每股收益: $1.45，当前市值: $1
 	92\,792\,598\,516。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=DIS \n在富途
@@ -182,9 +182,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Ix1G79KjJr1o44G15RlJl
+UID:y5u7rmzwiAYms9Rh2G16s
 SUMMARY:Arm 盘后发布财报
-DTSTAMP:20250117T164348Z
+DTSTAMP:20250118T044108Z
 DTSTART;VALUE=DATE:20250205
 DESCRIPTION:财务季度：Dec/2024。\n代码：ARM，公司：Arm，行业: 半导体。\n预计每股收益: $0.16，当前市值: $15
 	3\,469\,554\,917。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ARM \n在富途查
@@ -198,9 +198,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:X5xA3yTXPfVFK9CSsUuSv
+UID:yvkIh6DDdr4S3BlnltCKO
 SUMMARY:亚马逊 发布财报
-DTSTAMP:20250117T164348Z
+DTSTAMP:20250118T044108Z
 DTSTART;VALUE=DATE:20250206
 DESCRIPTION:财务季度：Dec/2024。\n代码：AMZN，公司：亚马逊，行业: 电子商务。\n预计每股收益: $1.54，当前市值: $
 	2\,320\,242\,329\,025。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMZN 
