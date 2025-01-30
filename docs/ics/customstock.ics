@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:vDsn2t1JV_hCZD_xsjJv0
+UID:NfGZx8qpxq2JtZxUxUQWZ
 SUMMARY:台积电 发布财报
-DTSTAMP:20250130T044255Z
+DTSTAMP:20250130T164457Z
 DTSTART;VALUE=DATE:20250116
 DESCRIPTION:财务季度：Dec/2024。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $2.16，当前市值: $1\
 	,113\,989\,905\,588。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:M7QXrwXq1JW9Y3f7LILPt
+UID:n0oE2Cr8XEXkmWOt7shsq
 SUMMARY:NETFLIX 发布财报
-DTSTAMP:20250130T044255Z
+DTSTAMP:20250130T164457Z
 DTSTART;VALUE=DATE:20250121
 DESCRIPTION:财务季度：Dec/2024。\n代码：NFLX，公司：NETFLIX，行业: 电子商务。\n预计每股收益: $4.20，当前市
 	值: $371\,751\,772\,583。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NFLX
@@ -38,12 +38,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:CLb67DYNs0d77JZG_NCG_
-SUMMARY:微软 盘后发布财报
-DTSTAMP:20250130T044255Z
+UID:qgyiyt7egciYEs7V0ZZxP
+SUMMARY:微软 发布财报
+DTSTAMP:20250130T164457Z
 DTSTART;VALUE=DATE:20250129
 DESCRIPTION:财务季度：Dec/2024。\n代码：MSFT，公司：微软，行业: 电子商务。\n预计每股收益: $3.11，当前市值: $3
-	\,324\,878\,683\,027。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MSFT \
+	\,288\,670\,813\,648。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MSFT \
 	n在富途查看：https://www.futunn.com/hk/stock/MSFT-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -54,12 +54,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:gi2e2x0QRw_m_P3jffOAv
-SUMMARY:META 盘后发布财报
-DTSTAMP:20250130T044255Z
+UID:hlqxqa3dOM2smde_hdim2
+SUMMARY:META 发布财报
+DTSTAMP:20250130T164457Z
 DTSTART;VALUE=DATE:20250129
 DESCRIPTION:财务季度：Dec/2024。\n代码：META，公司：META，行业: 电子商务。\n预计每股收益: $6.68，当前市值: 
-	$1\,702\,338\,352\,457。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=META
+	$1\,707\,791\,247\,689。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=META
 	 \n在富途查看：https://www.futunn.com/hk/stock/META-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -70,12 +70,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:3omx5BN8-Dp-If4ZIMLwN
-SUMMARY:特斯拉 盘后发布财报
-DTSTAMP:20250130T044255Z
+UID:xIAO4XCdN91gTgq_iCa6i
+SUMMARY:特斯拉 发布财报
+DTSTAMP:20250130T164457Z
 DTSTART;VALUE=DATE:20250129
 DESCRIPTION:财务季度：Dec/2024。\n代码：TSLA，公司：特斯拉，行业: 电子商务。\n预计每股收益: $0.62，当前市值: $
-	1\,277\,892\,649\,651。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA 
+	1\,249\,034\,213\,316。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA 
 	\n在富途查看：https://www.futunn.com/hk/stock/TSLA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -86,12 +86,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:rZZ3tIcqRlBmgaLPkJ1nz
+UID:KYMZDwcEcNa8o3cOwY_rX
 SUMMARY:苹果 盘后发布财报
-DTSTAMP:20250130T044255Z
+DTSTAMP:20250130T164457Z
 DTSTART;VALUE=DATE:20250130
 DESCRIPTION:财务季度：Dec/2024。\n代码：AAPL，公司：苹果，行业: 电子商务。\n预计每股收益: $2.36，当前市值: $3
-	\,474\,523\,074\,780。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AAPL \
+	\,618\,123\,393\,280。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AAPL \
 	n在富途查看：https://www.futunn.com/hk/stock/AAPL-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -102,12 +102,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:r0jJQBFnj0eJs0HELTMDm
+UID:xj1gfYg5ZKWDLJCJXJwis
 SUMMARY:INTEL 盘后发布财报
-DTSTAMP:20250130T044255Z
+DTSTAMP:20250130T164457Z
 DTSTART;VALUE=DATE:20250130
 DESCRIPTION:财务季度：Dec/2024。\n代码：INTC，公司：INTEL，行业: 电子商务。\n预计每股收益: ($0.04)，当前市
-	值: $87\,510\,770\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=INTC 
+	值: $85\,181\,750\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=INTC 
 	\n在富途查看：https://www.futunn.com/hk/stock/INTC-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -118,12 +118,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ndkD6pXUxAPOKJG2b5mUj
+UID:z5fz67Ow5_6vrFywZhzy7
 SUMMARY:谷歌 盘后发布财报
-DTSTAMP:20250130T044255Z
+DTSTAMP:20250130T164457Z
 DTSTART;VALUE=DATE:20250204
 DESCRIPTION:财务季度：Dec/2024。\n代码：GOOG，公司：谷歌，行业: 电子商务。\n预计每股收益: $2.12，当前市值: $2
-	\,371\,938\,570\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GOOG \
+	\,412\,333\,870\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GOOG \
 	n在富途查看：https://www.futunn.com/hk/stock/GOOG-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -134,12 +134,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:rIrZMdt27LrTdoNrSIngB
+UID:vAQkECWqxuP3CsFosg2Q9
 SUMMARY:超威电子 盘后发布财报
-DTSTAMP:20250130T044255Z
+DTSTAMP:20250130T164457Z
 DTSTART;VALUE=DATE:20250204
 DESCRIPTION:财务季度：Dec/2024。\n代码：AMD，公司：超威电子，行业: 电子商务。\n预计每股收益: $0.88，当前市值: $
-	186\,639\,072\,863。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMD \n在富
+	185\,275\,914\,692。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMD \n在富
 	途查看：https://www.futunn.com/hk/stock/AMD-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -150,9 +150,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2WuvWQ6C8S9oisJc9gCsp
+UID:IWjU0ESunSyTx_3ABg3N9
 SUMMARY:阿里巴巴 发布财报
-DTSTAMP:20250130T044255Z
+DTSTAMP:20250130T164457Z
 DTSTART;VALUE=DATE:20250205
 DESCRIPTION:财务季度：Dec/2024。\n代码：BABA，公司：阿里巴巴，行业: 电子商务。\n预计每股收益: $2.84，当前市值: 
 	$228\,725\,841\,952。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BABA \n
@@ -166,9 +166,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:bAweKT7UNLIWE6l5ZJtkq
+UID:iPY0-h1RSjWyvD9OZJ6mO
 SUMMARY:迪士尼 盘前发布财报
-DTSTAMP:20250130T044255Z
+DTSTAMP:20250130T164457Z
 DTSTART;VALUE=DATE:20250205
 DESCRIPTION:财务季度：Dec/2024。\n代码：DIS，公司：迪士尼，行业: 电子商务。\n预计每股收益: $1.45，当前市值: $2
 	03\,078\,733\,774。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=DIS \n在富途
@@ -182,9 +182,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:aSX9NRaYTUnbzlvbCP4V1
+UID:O2jRuAqLDaHNT2TA33_M2
 SUMMARY:Arm 盘后发布财报
-DTSTAMP:20250130T044255Z
+DTSTAMP:20250130T164457Z
 DTSTART;VALUE=DATE:20250205
 DESCRIPTION:财务季度：Dec/2024。\n代码：ARM，公司：Arm，行业: 半导体。\n预计每股收益: $0.16，当前市值: $15
 	5\,498\,199\,386。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ARM \n在富途查
@@ -198,12 +198,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ub_T8RnRkqbs394q7n04r
+UID:2z7LDXxTR-mqahv1xsnQU
 SUMMARY:亚马逊 盘后发布财报
-DTSTAMP:20250130T044255Z
+DTSTAMP:20250130T164457Z
 DTSTART;VALUE=DATE:20250206
 DESCRIPTION:财务季度：Dec/2024。\n代码：AMZN，公司：亚马逊，行业: 电子商务。\n预计每股收益: $1.52，当前市值: $
-	2\,504\,149\,871\,555。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMZN 
+	2\,492\,793\,659\,666。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMZN 
 	\n在富途查看：https://www.futunn.com/hk/stock/AMZN-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -214,12 +214,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:q-jpvxtbaxHxmzvNzc6ZM
+UID:mmn901iDExMW7vOw6N5R6
 SUMMARY:理想汽车 发布财报
-DTSTAMP:20250130T044255Z
+DTSTAMP:20250130T164457Z
 DTSTART;VALUE=DATE:20250224
-DESCRIPTION:财务季度：Dec/2024。\n代码：LI，公司：理想汽车，行业: 汽车。\n预计每股收益: ，当前市值: $24\,366\
-	,253\,539。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LI \n在富途查看：https:
+DESCRIPTION:财务季度：Dec/2024。\n代码：LI，公司：理想汽车，行业: 汽车。\n预计每股收益: ，当前市值: $24\,219\
+	,658\,116。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LI \n在富途查看：https:
 	//www.futunn.com/hk/stock/LI-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -230,12 +230,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:s4mAICL4p_lqWDFD6ClUe
+UID:2ZGgAuDevJ_90jxuDE4BQ
 SUMMARY:英伟达 盘后发布财报
-DTSTAMP:20250130T044255Z
+DTSTAMP:20250130T164457Z
 DTSTART;VALUE=DATE:20250226
 DESCRIPTION:财务季度：Jan/2025。\n代码：NVDA，公司：英伟达，行业: 电子商务。\n预计每股收益: $0.79，当前市值: $
-	3\,158\,965\,100\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NVDA 
+	3\,029\,413\,000\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NVDA 
 	\n在富途查看：https://www.futunn.com/hk/stock/NVDA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -246,12 +246,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Oejxcac0FqFYDZm27nVAD
+UID:mWlk9nO8xanKfTJMJ157z
 SUMMARY:C3.ai 盘后发布财报
-DTSTAMP:20250130T044255Z
+DTSTAMP:20250130T164457Z
 DTSTART;VALUE=DATE:20250226
 DESCRIPTION:财务季度：Jan/2025。\n代码：AI，公司：C3.ai，行业: 软件。\n预计每股收益: ($0.70)，当前市值: $
-	4\,259\,155\,527。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AI \n在富途查看
+	4\,084\,917\,346。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AI \n在富途查看
 	：https://www.futunn.com/hk/stock/AI-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE

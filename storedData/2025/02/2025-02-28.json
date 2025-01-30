@@ -3,25 +3,25 @@
   "data": [
     {
       "lastYearRptDt": "2/24/2024",
-      "lastYearEPS": "$3.92",
-      "time": "time-not-supplied",
-      "symbol": "BRK.B",
-      "name": "Berkshire Hathaway Inc.",
-      "marketCap": "$1,023,006,214,410",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$4.43",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "2/24/2024",
       "lastYearEPS": "N/A",
       "time": "time-not-supplied",
       "symbol": "BRK.A",
       "name": "Berkshire Hathaway Inc.",
-      "marketCap": "$1,022,934,672,000",
+      "marketCap": "$1,012,877,730,000",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
       "noOfEsts": "N/A"
+    },
+    {
+      "lastYearRptDt": "2/24/2024",
+      "lastYearEPS": "$3.92",
+      "time": "time-not-supplied",
+      "symbol": "BRK.B",
+      "name": "Berkshire Hathaway Inc.",
+      "marketCap": "$1,012,812,788,258",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$4.43",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "2/23/2024",
@@ -29,7 +29,7 @@
       "time": "time-not-supplied",
       "symbol": "FMX",
       "name": "Fomento Economico Mexicano S.A.B. de C.V.",
-      "marketCap": "$151,523,500,000",
+      "marketCap": "$154,548,600,000",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
       "noOfEsts": "N/A"
@@ -40,7 +40,7 @@
       "time": "time-not-supplied",
       "symbol": "CCEP",
       "name": "Coca-Cola Europacific Partners plc",
-      "marketCap": "$36,059,888,269",
+      "marketCap": "$35,751,053,740",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
       "noOfEsts": "2"
@@ -62,7 +62,7 @@
       "time": "time-pre-market",
       "symbol": "GTLS",
       "name": "Chart Industries, Inc.",
-      "marketCap": "$8,696,209,602",
+      "marketCap": "$8,807,090,234",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$3.19",
       "noOfEsts": "8"
@@ -73,7 +73,7 @@
       "time": "time-not-supplied",
       "symbol": "GHC",
       "name": "Graham Holdings Company",
-      "marketCap": "$3,984,518,406",
+      "marketCap": "$3,951,843,144",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
       "noOfEsts": "2"
@@ -84,10 +84,21 @@
       "time": "time-pre-market",
       "symbol": "FRO",
       "name": "Frontline Plc",
-      "marketCap": "$3,550,835,079",
+      "marketCap": "$3,653,241,608",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.20",
       "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "3/01/2024",
+      "lastYearEPS": "$0.12",
+      "time": "time-pre-market",
+      "symbol": "AMRX",
+      "name": "Amneal Pharmaceuticals, Inc.",
+      "marketCap": "$2,704,941,873",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "$0.13",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "N/A",
@@ -106,7 +117,7 @@
       "time": "time-pre-market",
       "symbol": "AMR",
       "name": "Alpha Metallurgical Resources, Inc.",
-      "marketCap": "$2,449,873,402",
+      "marketCap": "$2,401,844,325",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$2.49",
       "noOfEsts": "1"
@@ -117,7 +128,7 @@
       "time": "time-not-supplied",
       "symbol": "AGM",
       "name": "Federal Agricultural Mortgage Corporation",
-      "marketCap": "$2,163,226,772",
+      "marketCap": "$2,172,261,988",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$4.16",
       "noOfEsts": "2"
@@ -128,7 +139,7 @@
       "time": "time-pre-market",
       "symbol": "NWN",
       "name": "Northwest Natural Holding Company",
-      "marketCap": "$1,635,782,276",
+      "marketCap": "$1,619,729,457",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$1.41",
       "noOfEsts": "2"
@@ -139,20 +150,9 @@
       "time": "time-not-supplied",
       "symbol": "GLPG",
       "name": "Galapagos NV",
-      "marketCap": "$1,555,829,846",
+      "marketCap": "$1,547,922,197",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "($0.24)",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "2/23/2024",
-      "lastYearEPS": "($0.79)",
-      "time": "time-not-supplied",
-      "symbol": "CLMT",
-      "name": "Calumet, Inc",
-      "marketCap": "$1,394,223,624",
-      "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "($1.06)",
       "noOfEsts": "2"
     },
     {
@@ -161,10 +161,21 @@
       "time": "time-not-supplied",
       "symbol": "DCBO",
       "name": "Docebo Inc.",
-      "marketCap": "$1,291,162,892",
+      "marketCap": "$1,300,534,479",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.30",
       "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "2/23/2024",
+      "lastYearEPS": "($0.79)",
+      "time": "time-not-supplied",
+      "symbol": "CLMT",
+      "name": "Calumet, Inc",
+      "marketCap": "$1,289,420,616",
+      "fiscalQuarterEnding": "Dec/2024",
+      "epsForecast": "($1.06)",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "2/23/2024",
@@ -172,9 +183,9 @@
       "time": "time-not-supplied",
       "symbol": "BLMN",
       "name": "Bloomin' Brands, Inc.",
-      "marketCap": "$1,069,022,707",
+      "marketCap": "$1,056,296,246",
       "fiscalQuarterEnding": "Dec/2024",
-      "epsForecast": "$0.37",
+      "epsForecast": "$0.38",
       "noOfEsts": "7"
     },
     {
@@ -183,7 +194,7 @@
       "time": "time-not-supplied",
       "symbol": "UUUU",
       "name": "Energy Fuels Inc",
-      "marketCap": "$851,389,168",
+      "marketCap": "$867,857,044",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0",
       "noOfEsts": "2"
@@ -194,7 +205,7 @@
       "time": "time-not-supplied",
       "symbol": "BH",
       "name": "Biglari Holdings Inc.",
-      "marketCap": "$519,019,707",
+      "marketCap": "$522,751,533",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
       "noOfEsts": "2"
@@ -205,7 +216,7 @@
       "time": "time-not-supplied",
       "symbol": "DSX",
       "name": "Diana Shipping inc.",
-      "marketCap": "$214,733,621",
+      "marketCap": "$215,933,250",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
       "noOfEsts": "2"
@@ -216,7 +227,7 @@
       "time": "time-not-supplied",
       "symbol": "SSP",
       "name": "E.W. Scripps Company (The)",
-      "marketCap": "$186,543,006",
+      "marketCap": "$172,725,006",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0.99",
       "noOfEsts": "1"
@@ -227,7 +238,7 @@
       "time": "time-not-supplied",
       "symbol": "TCBS",
       "name": "Texas Community Bancshares, Inc.",
-      "marketCap": "$48,324,074",
+      "marketCap": "$48,604,171",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
       "noOfEsts": "2"
@@ -238,7 +249,7 @@
       "time": "time-not-supplied",
       "symbol": "BTCM",
       "name": "BIT Mining Limited",
-      "marketCap": "$29,781,025",
+      "marketCap": "$29,336,532",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "$0",
       "noOfEsts": "1"
@@ -249,7 +260,7 @@
       "time": "time-not-supplied",
       "symbol": "THAR",
       "name": "Tharimmune, Inc.",
-      "marketCap": "$2,986,934",
+      "marketCap": "$2,934,923",
       "fiscalQuarterEnding": "Dec/2024",
       "epsForecast": "",
       "noOfEsts": "2"
