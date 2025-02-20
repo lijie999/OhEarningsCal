@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:3vha_4YimZRziAp23PzAm
+UID:4goIO0B02hDNkx6jIGJ5J
 SUMMARY:NETFLIX 发布财报
-DTSTAMP:20250220T044250Z
+DTSTAMP:20250220T164718Z
 DTSTART;VALUE=DATE:20250121
 DESCRIPTION:财务季度：Dec/2024。\n代码：NFLX，公司：NETFLIX，行业: 电子商务。\n预计每股收益: $4.20，当前市
 	值: $371\,751\,772\,583。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NFLX
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:bAXUhfer-fmOwQj1DTRV7
+UID:LpiAF1DzjF3lGLGSEojRX
 SUMMARY:微软 发布财报
-DTSTAMP:20250220T044250Z
+DTSTAMP:20250220T164718Z
 DTSTART;VALUE=DATE:20250129
 DESCRIPTION:财务季度：Dec/2024。\n代码：MSFT，公司：微软，行业: 电子商务。\n预计每股收益: $3.11，当前市值: $3
 	\,288\,670\,813\,648。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MSFT \
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:8e0z1VnLDhyBD7xqoIEJU
+UID:V1a3aE73jGpANBaoa3tS_
 SUMMARY:META 发布财报
-DTSTAMP:20250220T044250Z
+DTSTAMP:20250220T164718Z
 DTSTART;VALUE=DATE:20250129
 DESCRIPTION:财务季度：Dec/2024。\n代码：META，公司：META，行业: 电子商务。\n预计每股收益: $6.68，当前市值: 
 	$1\,707\,791\,247\,689。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=META
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:JtYhl91gejOYUHvcsRcVi
+UID:h660wygi5fVGMhctn1iOj
 SUMMARY:特斯拉 发布财报
-DTSTAMP:20250220T044250Z
+DTSTAMP:20250220T164718Z
 DTSTART;VALUE=DATE:20250129
 DESCRIPTION:财务季度：Dec/2024。\n代码：TSLA，公司：特斯拉，行业: 电子商务。\n预计每股收益: $0.62，当前市值: $
 	1\,249\,034\,213\,316。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA 
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:0oYzQT73ntdNDvE4yaFfq
+UID:qYDuHVyjIOOSJMsmjKBMd
 SUMMARY:苹果 发布财报
-DTSTAMP:20250220T044250Z
+DTSTAMP:20250220T164718Z
 DTSTART;VALUE=DATE:20250130
 DESCRIPTION:财务季度：Dec/2024。\n代码：AAPL，公司：苹果，行业: 电子商务。\n预计每股收益: $2.36，当前市值: $3
 	\,618\,123\,393\,280。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AAPL \
@@ -86,9 +86,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:GPZjVIcYf0J4e-s3XG1r5
+UID:ogvxIk_Xu_ap8jofuZx4d
 SUMMARY:INTEL 发布财报
-DTSTAMP:20250220T044250Z
+DTSTAMP:20250220T164718Z
 DTSTART;VALUE=DATE:20250130
 DESCRIPTION:财务季度：Dec/2024。\n代码：INTC，公司：INTEL，行业: 电子商务。\n预计每股收益: ($0.04)，当前市
 	值: $85\,181\,750\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=INTC 
@@ -102,9 +102,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:u5jbWHObY7sb01X3TnH43
+UID:YARR3O3hJ9gYN5yp-XP-u
 SUMMARY:谷歌 发布财报
-DTSTAMP:20250220T044250Z
+DTSTAMP:20250220T164718Z
 DTSTART;VALUE=DATE:20250204
 DESCRIPTION:财务季度：Dec/2024。\n代码：GOOG，公司：谷歌，行业: 电子商务。\n预计每股收益: $2.12，当前市值: $2
 	\,542\,578\,110\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GOOG \
@@ -118,9 +118,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:YsOPNAkmCkuCTNaEw8BLC
+UID:yQ-tZGztfrFPqPHzAIkEZ
 SUMMARY:超威电子 发布财报
-DTSTAMP:20250220T044250Z
+DTSTAMP:20250220T164718Z
 DTSTART;VALUE=DATE:20250204
 DESCRIPTION:财务季度：Dec/2024。\n代码：AMD，公司：超威电子，行业: 电子商务。\n预计每股收益: $0.88，当前市值: $
 	193\,925\,477\,847。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMD \n在富
@@ -134,9 +134,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:6xbXryPG98hRFkpQbxMqm
+UID:ATp3FoIwgX8IL5jtFQE3k
 SUMMARY:迪士尼 发布财报
-DTSTAMP:20250220T044250Z
+DTSTAMP:20250220T164718Z
 DTSTART;VALUE=DATE:20250205
 DESCRIPTION:财务季度：Dec/2024。\n代码：DIS，公司：迪士尼，行业: 电子商务。\n预计每股收益: $1.44，当前市值: $2
 	00\,181\,230\,885。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=DIS \n在富途
@@ -150,9 +150,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:WStL09dZPjWg7i0NJ4HeM
+UID:cNlRH4Ic6XLyHNPtVfK78
 SUMMARY:Arm 发布财报
-DTSTAMP:20250220T044250Z
+DTSTAMP:20250220T164718Z
 DTSTART;VALUE=DATE:20250205
 DESCRIPTION:财务季度：Dec/2024。\n代码：ARM，公司：Arm，行业: 半导体。\n预计每股收益: $0.16，当前市值: $18
 	0\,247\,661\,910。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ARM \n在富途查
@@ -166,9 +166,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1GflqT0ZRj5VT5OlGZnSc
+UID:TSQ4-9FlhL4LK-NN6AryM
 SUMMARY:亚马逊 发布财报
-DTSTAMP:20250220T044250Z
+DTSTAMP:20250220T164718Z
 DTSTART;VALUE=DATE:20250206
 DESCRIPTION:财务季度：Dec/2024。\n代码：AMZN，公司：亚马逊，行业: 电子商务。\n预计每股收益: $1.52，当前市值: $
 	2\,511\,300\,079\,040。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMZN 
@@ -182,9 +182,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:YXcbgIPDGTlbjNJdrRNfg
+UID:h0xMHKwKnyesUTjir1ViU
 SUMMARY:阿里巴巴 盘前发布财报
-DTSTAMP:20250220T044250Z
+DTSTAMP:20250220T164718Z
 DTSTART;VALUE=DATE:20250220
 DESCRIPTION:财务季度：Dec/2024。\n代码：BABA，公司：阿里巴巴，行业: 电子商务。\n预计每股收益: $2.84，当前市值: 
 	$302\,252\,518\,418。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BABA \n
@@ -198,12 +198,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Q5XuG97aUUq7mferPIXwp
+UID:ivBBIhoMoOzlLd4kQEH31
 SUMMARY:理想汽车 发布财报
-DTSTAMP:20250220T044250Z
+DTSTAMP:20250220T164718Z
 DTSTART;VALUE=DATE:20250224
-DESCRIPTION:财务季度：Dec/2024。\n代码：LI，公司：理想汽车，行业: 汽车。\n预计每股收益: ，当前市值: $26\,837\
-	,433\,528。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LI \n在富途查看：https:
+DESCRIPTION:财务季度：Dec/2024。\n代码：LI，公司：理想汽车，行业: 汽车。\n预计每股收益: ，当前市值: $27\,706\
+	,534\,965。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LI \n在富途查看：https:
 	//www.futunn.com/hk/stock/LI-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -214,12 +214,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:j58swr7WDjkkAKSd-x8rz
+UID:DZSc9ZYjyQRsf4UasOq9E
 SUMMARY:英伟达 盘后发布财报
-DTSTAMP:20250220T044250Z
+DTSTAMP:20250220T164718Z
 DTSTART;VALUE=DATE:20250226
 DESCRIPTION:财务季度：Jan/2025。\n代码：NVDA，公司：英伟达，行业: 电子商务。\n预计每股收益: $0.79，当前市值: $
-	3\,413\,906\,000\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NVDA 
+	3\,409\,742\,700\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NVDA 
 	\n在富途查看：https://www.futunn.com/hk/stock/NVDA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -230,12 +230,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:q4r5rmcEnWIq-Ooun_YVh
+UID:OEvGO94RYm5NMjaxmsJ6-
 SUMMARY:C3.ai 盘后发布财报
-DTSTAMP:20250220T044250Z
+DTSTAMP:20250220T164718Z
 DTSTART;VALUE=DATE:20250226
 DESCRIPTION:财务季度：Jan/2025。\n代码：AI，公司：C3.ai，行业: 软件。\n预计每股收益: ($0.70)，当前市值: $
-	4\,101\,695\,837。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AI \n在富途查看
+	3\,971\,339\,865。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AI \n在富途查看
 	：https://www.futunn.com/hk/stock/AI-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -246,9 +246,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Tf320cpOUlYfrfOLFU7-c
+UID:bXbRRE4UxaTdiNx8YPiqD
 SUMMARY:蔚来 发布财报
-DTSTAMP:20250220T044250Z
+DTSTAMP:20250220T164718Z
 DTSTART;VALUE=DATE:20250304
 DESCRIPTION:财务季度：Dec/2024。\n代码：NIO，公司：蔚来，行业: 汽车。\n预计每股收益: ($0.42)，当前市值: $9\
 	,100\,056\,953。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NIO \n在富途查看：
@@ -262,9 +262,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ODuCDUsObYca9JjglxRvH
+UID:YWWpNuOBc2oWVpdKm3g61
 SUMMARY:京东 发布财报
-DTSTAMP:20250220T044250Z
+DTSTAMP:20250220T164718Z
 DTSTART;VALUE=DATE:20250305
 DESCRIPTION:财务季度：Dec/2024。\n代码：JD，公司：京东，行业: 电子商务。\n预计每股收益: $0.84，当前市值: $61\
 	,171\,114\,648。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JD \n在富途查看：h
@@ -278,9 +278,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:5mKVF8hY7-uGOqvzaaN00
+UID:gFYQ0oC2FOCbFnICAMc3K
 SUMMARY:小鹏汽车 发布财报
-DTSTAMP:20250220T044250Z
+DTSTAMP:20250220T164718Z
 DTSTART;VALUE=DATE:20250318
 DESCRIPTION:财务季度：Dec/2024。\n代码：XPEV，公司：小鹏汽车，行业: 汽车。\n预计每股收益: ，当前市值: $16\,47
 	8\,720\,079。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=XPEV \n在富途查看：ht
@@ -294,12 +294,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ChBCyhlwI8bRn_1SPq1Fh
+UID:zd4TBDqITwi2fRUpLBiDK
 SUMMARY:拼多多 发布财报
-DTSTAMP:20250220T044250Z
+DTSTAMP:20250220T164718Z
 DTSTART;VALUE=DATE:20250319
 DESCRIPTION:财务季度：Dec/2024。\n代码：PDD，公司：拼多多，行业: 电子商务。\n预计每股收益: $2.31，当前市值: $1
-	76\,744\,618\,218。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PDD \n在富途
+	71\,199\,850\,886。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PDD \n在富途
 	查看：https://www.futunn.com/hk/stock/PDD-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
