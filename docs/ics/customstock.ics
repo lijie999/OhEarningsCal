@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:25xgnVN2oYqKVwXczka-C
+UID:Oa6HbViNVNdaRVARgghZC
 SUMMARY:超威电子 发布财报
-DTSTAMP:20250903T044413Z
+DTSTAMP:20250903T164705Z
 DTSTART;VALUE=DATE:20250805
 DESCRIPTION:财务季度：Jun/2025。\n代码：AMD，公司：超威电子，行业: 电子商务。\n预计每股收益: $0.28，当前市值: $
 	282\,626\,965\,230。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMD \n在富
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:l006Of_ZHMnwBeyxcAd1C
+UID:vEtf4F8qciKvUm96kvKEz
 SUMMARY:迪士尼 发布财报
-DTSTAMP:20250903T044413Z
+DTSTAMP:20250903T164705Z
 DTSTART;VALUE=DATE:20250806
 DESCRIPTION:财务季度：Jun/2025。\n代码：DIS，公司：迪士尼，行业: 电子商务。\n预计每股收益: $1.46，当前市值: $2
 	07\,046\,442\,638。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=DIS \n在富途
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:22t8c4LSu54kTsd5Dyhks
+UID:7NFB3gFb6EnhwHuY2y4yO
 SUMMARY:京东 发布财报
-DTSTAMP:20250903T044413Z
+DTSTAMP:20250903T164705Z
 DTSTART;VALUE=DATE:20250814
 DESCRIPTION:财务季度：Jun/2025。\n代码：JD，公司：京东，行业: 电子商务。\n预计每股收益: $0.44，当前市值: $45\
 	,895\,039\,457。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JD \n在富途查看：h
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:O7Gjo46tdly4Myf-da9e8
+UID:GtQD_bVG2MK8bJxMLFBRF
 SUMMARY:小鹏汽车 发布财报
-DTSTAMP:20250903T044413Z
+DTSTAMP:20250903T164705Z
 DTSTART;VALUE=DATE:20250819
 DESCRIPTION:财务季度：Jun/2025。\n代码：XPEV，公司：小鹏汽车，行业: 汽车。\n预计每股收益: ，当前市值: $19\,70
 	7\,651\,215。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=XPEV \n在富途查看：ht
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Q2M2d8XHjVCuPW3MWbGGT
+UID:QJo93HtKgACKiKVlxy2kf
 SUMMARY:拼多多 发布财报
-DTSTAMP:20250903T044413Z
+DTSTAMP:20250903T164705Z
 DTSTART;VALUE=DATE:20250825
 DESCRIPTION:财务季度：Jun/2025。\n代码：PDD，公司：拼多多，行业: 电子商务。\n预计每股收益: $1.69，当前市值: $1
 	82\,012\,872\,893。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PDD \n在富途
@@ -86,9 +86,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:RHNDUfr1nBHA3C6bFFGml
+UID:8kslydUEiDPSVB5q3CVT0
 SUMMARY:英伟达 发布财报
-DTSTAMP:20250903T044413Z
+DTSTAMP:20250903T164705Z
 DTSTART;VALUE=DATE:20250827
 DESCRIPTION:财务季度：Jul/2025。\n代码：NVDA，公司：英伟达，行业: 电子商务。\n预计每股收益: $0.94，当前市值: $
 	4\,431\,040\,000\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NVDA 
@@ -102,9 +102,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:JDa8uFoo92jaJGgSC2P9X
+UID:gnFXp8Jf-mKNGmTgYtruy
 SUMMARY:理想汽车 发布财报
-DTSTAMP:20250903T044413Z
+DTSTAMP:20250903T164705Z
 DTSTART;VALUE=DATE:20250828
 DESCRIPTION:财务季度：Jun/2025。\n代码：LI，公司：理想汽车，行业: 汽车。\n预计每股收益: ，当前市值: $24\,615\
 	,155\,419。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LI \n在富途查看：https:
@@ -118,9 +118,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:bufs3tVXaeiIXslK3qM8o
+UID:lFdYq328UwmkbtJP8rUM6
 SUMMARY:阿里巴巴 发布财报
-DTSTAMP:20250903T044413Z
+DTSTAMP:20250903T164705Z
 DTSTART;VALUE=DATE:20250829
 DESCRIPTION:财务季度：Jun/2025。\n代码：BABA，公司：阿里巴巴，行业: 电子商务。\n预计每股收益: $1.95，当前市值: 
 	$276\,120\,545\,510。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BABA \n
@@ -134,12 +134,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wJv8G6N46Re_xNXmQuzsP
-SUMMARY:蔚来 盘前发布财报
-DTSTAMP:20250903T044413Z
+UID:NNqP41xS1qsyclIncVaPc
+SUMMARY:蔚来 发布财报
+DTSTAMP:20250903T164705Z
 DTSTART;VALUE=DATE:20250902
 DESCRIPTION:财务季度：Jun/2025。\n代码：NIO，公司：蔚来，行业: 汽车。\n预计每股收益: ($0.30)，当前市值: $14
-	\,329\,420\,015。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NIO \n在富途查看
+	\,778\,618\,135。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NIO \n在富途查看
 	：https://www.futunn.com/hk/stock/NIO-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -150,12 +150,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:qx7H7mDv1pugEgFnbR2uh
+UID:BTAGgnhV8hO-Bu8M_N0yc
 SUMMARY:C3.ai 盘后发布财报
-DTSTAMP:20250903T044413Z
+DTSTAMP:20250903T164705Z
 DTSTART;VALUE=DATE:20250903
 DESCRIPTION:财务季度：Jul/2025。\n代码：AI，公司：C3.ai，行业: 软件。\n预计每股收益: ($0.81)，当前市值: $
-	2\,272\,466\,009。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AI \n在富途查看
+	2\,260\,371\,275。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AI \n在富途查看
 	：https://www.futunn.com/hk/stock/AI-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
