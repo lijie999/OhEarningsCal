@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:K9ESaN6ckLuozhE6K1fi3
+UID:kV6cs1a3FAu_M94tfY9Hp
 SUMMARY:拼多多 发布财报
-DTSTAMP:20250922T044359Z
+DTSTAMP:20250922T164527Z
 DTSTART;VALUE=DATE:20250825
 DESCRIPTION:财务季度：Jun/2025。\n代码：PDD，公司：拼多多，行业: 电子商务。\n预计每股收益: $1.69，当前市值: $1
 	82\,012\,872\,893。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PDD \n在富途
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:3RaKYs49t2dM84sJ42DtC
+UID:9W-XqR0FKhx5bJUCkiRVC
 SUMMARY:英伟达 发布财报
-DTSTAMP:20250922T044359Z
+DTSTAMP:20250922T164527Z
 DTSTART;VALUE=DATE:20250827
 DESCRIPTION:财务季度：Jul/2025。\n代码：NVDA，公司：英伟达，行业: 电子商务。\n预计每股收益: $0.94，当前市值: $
 	4\,431\,040\,000\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NVDA 
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wGasq6cMYqt6fw5lOE098
+UID:Pv2wwXGhKrLc1uQqksgRK
 SUMMARY:理想汽车 发布财报
-DTSTAMP:20250922T044359Z
+DTSTAMP:20250922T164527Z
 DTSTART;VALUE=DATE:20250828
 DESCRIPTION:财务季度：Jun/2025。\n代码：LI，公司：理想汽车，行业: 汽车。\n预计每股收益: ，当前市值: $24\,615\
 	,155\,419。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LI \n在富途查看：https:
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:JlvNpAGiFyII2H6KFQj40
+UID:uANtWl3jndn-5A6uyAwZp
 SUMMARY:阿里巴巴 发布财报
-DTSTAMP:20250922T044359Z
+DTSTAMP:20250922T164527Z
 DTSTART;VALUE=DATE:20250829
 DESCRIPTION:财务季度：Jun/2025。\n代码：BABA，公司：阿里巴巴，行业: 电子商务。\n预计每股收益: $1.95，当前市值: 
 	$276\,120\,545\,510。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BABA \n
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:tIPAeh8DubjMslDmKr1_R
+UID:-12pr74o0XcC_H93kmhHc
 SUMMARY:蔚来 发布财报
-DTSTAMP:20250922T044359Z
+DTSTAMP:20250922T164527Z
 DTSTART;VALUE=DATE:20250902
 DESCRIPTION:财务季度：Jun/2025。\n代码：NIO，公司：蔚来，行业: 汽车。\n预计每股收益: ($0.30)，当前市值: $14
 	\,778\,618\,135。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NIO \n在富途查看
@@ -86,9 +86,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:h5Y7pegfKXRf3HFHfo2WR
+UID:98GStTB2oH_9Xo2MUohqA
 SUMMARY:C3.ai 发布财报
-DTSTAMP:20250922T044359Z
+DTSTAMP:20250922T164527Z
 DTSTART;VALUE=DATE:20250903
 DESCRIPTION:财务季度：Jul/2025。\n代码：AI，公司：C3.ai，行业: 软件。\n预计每股收益: ($0.81)，当前市值: $
 	2\,241\,557\,246。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AI \n在富途查看
@@ -102,12 +102,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:XFB-eGBlrs4UhFKAIe8bv
+UID:4G7Nnec6qAyXubehVc5yy
 SUMMARY:台积电 发布财报
-DTSTAMP:20250922T044359Z
+DTSTAMP:20250922T164527Z
 DTSTART;VALUE=DATE:20251016
 DESCRIPTION:财务季度：Sep/2025。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $2.56，当前市值: $1\
-	,393\,313\,891\,519。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
+	,373\,760\,610\,656。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
 	富途查看：https://www.futunn.com/hk/stock/TSM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -118,12 +118,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Vqii-u7titcZAPW5CeFyC
+UID:7hcL-gLEiB9qTuxC2uFHv
 SUMMARY:NETFLIX 盘后发布财报
-DTSTAMP:20250922T044359Z
+DTSTAMP:20250922T164527Z
 DTSTART;VALUE=DATE:20251021
 DESCRIPTION:财务季度：Sep/2025。\n代码：NFLX，公司：NETFLIX，行业: 电子商务。\n预计每股收益: $6.88，当前市
-	值: $513\,217\,542\,172。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NFLX
+	值: $521\,371\,878\,752。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NFLX
 	 \n在富途查看：https://www.futunn.com/hk/stock/NFLX-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
