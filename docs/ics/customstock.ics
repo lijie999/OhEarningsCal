@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:ruobOvbh0LmyVUlUf75P8
+UID:CeVkSAtLgHWrm1C1xGO5m
 SUMMARY:蔚来 发布财报
-DTSTAMP:20250930T044412Z
+DTSTAMP:20250930T164754Z
 DTSTART;VALUE=DATE:20250902
 DESCRIPTION:财务季度：Jun/2025。\n代码：NIO，公司：蔚来，行业: 汽车。\n预计每股收益: ($0.30)，当前市值: $14
 	\,778\,618\,135。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NIO \n在富途查看
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:pKntr5ZrcpadR2ojjjIOU
+UID:ydx7Qe7ueVX4kl_HdMMTB
 SUMMARY:C3.ai 发布财报
-DTSTAMP:20250930T044412Z
+DTSTAMP:20250930T164754Z
 DTSTART;VALUE=DATE:20250903
 DESCRIPTION:财务季度：Jul/2025。\n代码：AI，公司：C3.ai，行业: 软件。\n预计每股收益: ($0.81)，当前市值: $
 	2\,241\,557\,246。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AI \n在富途查看
@@ -38,12 +38,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:H0w8ed_lBG-EecCz8_VM_
+UID:XkUSMCMhunH307wAPAdOH
 SUMMARY:台积电 盘前发布财报
-DTSTAMP:20250930T044412Z
+DTSTAMP:20250930T164754Z
 DTSTART;VALUE=DATE:20251016
-DESCRIPTION:财务季度：Sep/2025。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $2.55，当前市值: $1\
-	,417\,794\,391\,697。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
+DESCRIPTION:财务季度：Sep/2025。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $2.56，当前市值: $1\
+	,417\,120\,140\,633。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
 	富途查看：https://www.futunn.com/hk/stock/TSM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -54,12 +54,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:TFa-EdOkpQOYtc3PNw6xz
+UID:HkoKC7nqzaAs6K3fsFD7k
 SUMMARY:NETFLIX 盘后发布财报
-DTSTAMP:20250930T044412Z
+DTSTAMP:20250930T164754Z
 DTSTART;VALUE=DATE:20251021
 DESCRIPTION:财务季度：Sep/2025。\n代码：NFLX，公司：NETFLIX，行业: 电子商务。\n预计每股收益: $6.88，当前市
-	值: $514\,420\,083\,731。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NFLX
+	值: $512\,635\,393\,078。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NFLX
 	 \n在富途查看：https://www.futunn.com/hk/stock/NFLX-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -70,12 +70,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:i2gHSpxFjkXtGAJaqCA_d
+UID:05AFFcFfesn3kBge-oZAX
 SUMMARY:特斯拉 发布财报
-DTSTAMP:20250930T044412Z
+DTSTAMP:20250930T164754Z
 DTSTART;VALUE=DATE:20251022
 DESCRIPTION:财务季度：Sep/2025。\n代码：TSLA，公司：特斯拉，行业: 电子商务。\n预计每股收益: $0.36，当前市值: $
-	1\,420\,487\,690\,716。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA 
+	1\,429\,551\,202\,094。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA 
 	\n在富途查看：https://www.futunn.com/hk/stock/TSLA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -86,12 +86,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Hmh0MyrTsZy97vSHt5c5V
+UID:V5gSq5kysWX5_8rWgo6Ae
 SUMMARY:微软 发布财报
-DTSTAMP:20250930T044412Z
+DTSTAMP:20250930T164754Z
 DTSTART;VALUE=DATE:20251029
 DESCRIPTION:财务季度：Sep/2025。\n代码：MSFT，公司：微软，行业: 电子商务。\n预计每股收益: $3.65，当前市值: $3
-	\,801\,767\,276\,203。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MSFT \
+	\,825\,107\,418\,633。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MSFT \
 	n在富途查看：https://www.futunn.com/hk/stock/MSFT-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -102,12 +102,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:b2ULWfSILWDRcN6jbKxrg
+UID:9laZmLitAvLgtB7VPc0pi
 SUMMARY:META 发布财报
-DTSTAMP:20250930T044412Z
+DTSTAMP:20250930T164754Z
 DTSTART;VALUE=DATE:20251029
 DESCRIPTION:财务季度：Sep/2025。\n代码：META，公司：META，行业: 电子商务。\n预计每股收益: $6.74，当前市值: 
-	$1\,868\,405\,222\,031。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=META
+	$1\,867\,525\,972\,515。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=META
 	 \n在富途查看：https://www.futunn.com/hk/stock/META-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
