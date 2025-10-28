@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:_MqNkGA29BBK13glUuwXR
+UID:gxDvMLVowEY2IhoTHNrv8
 SUMMARY:台积电 发布财报
-DTSTAMP:20251028T044523Z
+DTSTAMP:20251028T165132Z
 DTSTART;VALUE=DATE:20251016
 DESCRIPTION:财务季度：Sep/2025。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $2.59，当前市值: $1\
 	,555\,134\,146\,936。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:UKqU_EUoEXmmAnfPfYipC
+UID:uI3pmiu9EkPLmHFXN4qZe
 SUMMARY:NETFLIX 发布财报
-DTSTAMP:20251028T044523Z
+DTSTAMP:20251028T165132Z
 DTSTART;VALUE=DATE:20251021
 DESCRIPTION:财务季度：Sep/2025。\n代码：NFLX，公司：NETFLIX，行业: 电子商务。\n预计每股收益: $6.89，当前市
 	值: $527\,482\,319\,607。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NFLX
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:9BYN8j2TQBLqqv1dX3UKc
+UID:YtEJvkv__gmBQnZnC3TiN
 SUMMARY:特斯拉 发布财报
-DTSTAMP:20251028T044523Z
+DTSTAMP:20251028T165132Z
 DTSTART;VALUE=DATE:20251022
 DESCRIPTION:财务季度：Sep/2025。\n代码：TSLA，公司：特斯拉，行业: 电子商务。\n预计每股收益: $0.41，当前市值: $
 	1\,415\,875\,298\,804。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA 
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:8FEhIw5gpnUna1cK6jyVK
+UID:s360Yp9Zkn9V-TNlR64EA
 SUMMARY:INTEL 发布财报
-DTSTAMP:20251028T044523Z
+DTSTAMP:20251028T165132Z
 DTSTART;VALUE=DATE:20251023
 DESCRIPTION:财务季度：Sep/2025。\n代码：INTC，公司：INTEL，行业: 电子商务。\n预计每股收益: ($0.11)，当前市
 	值: $167\,026\,320\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=INTC
@@ -70,12 +70,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:f1PyG3Uc14sHPCXZ3RYZi
+UID:Sp7JCDNGCdGxmm2ktSFOK
 SUMMARY:微软 盘后发布财报
-DTSTAMP:20251028T044523Z
+DTSTAMP:20251028T165132Z
 DTSTART;VALUE=DATE:20251029
 DESCRIPTION:财务季度：Sep/2025。\n代码：MSFT，公司：微软，行业: 电子商务。\n预计每股收益: $3.65，当前市值: $3
-	\,892\,080\,247\,708。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MSFT \
+	\,950\,876\,593\,766。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MSFT \
 	n在富途查看：https://www.futunn.com/hk/stock/MSFT-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -86,12 +86,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:D65nKw28hVO6jldd9MwrR
+UID:YPpIO0gMwvD7lIyUBKJJ9
 SUMMARY:谷歌 盘后发布财报
-DTSTAMP:20251028T044523Z
+DTSTAMP:20251028T165132Z
 DTSTART;VALUE=DATE:20251029
-DESCRIPTION:财务季度：Sep/2025。\n代码：GOOG，公司：谷歌，行业: 电子商务。\n预计每股收益: $2.27，当前市值: $3
-	\,143\,472\,480\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GOOG \
+DESCRIPTION:财务季度：Sep/2025。\n代码：GOOG，公司：谷歌，行业: 电子商务。\n预计每股收益: $2.26，当前市值: $3
+	\,256\,551\,380\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GOOG \
 	n在富途查看：https://www.futunn.com/hk/stock/GOOG-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -102,12 +102,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:mxfTH1ujuBvEHZRFKWpyX
+UID:be-vx28EJnDwhEIRQa-6s
 SUMMARY:META 盘后发布财报
-DTSTAMP:20251028T044523Z
+DTSTAMP:20251028T165132Z
 DTSTART;VALUE=DATE:20251029
 DESCRIPTION:财务季度：Sep/2025。\n代码：META，公司：META，行业: 电子商务。\n预计每股收益: $6.61，当前市值: 
-	$1\,854\,864\,779\,481。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=META
+	$1\,886\,166\,062\,260。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=META
 	 \n在富途查看：https://www.futunn.com/hk/stock/META-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -118,12 +118,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:BC9p35P6Aj5m_3zJ0ZL-M
+UID:fpJ6pCAhXxawbArpNOpts
 SUMMARY:苹果 盘后发布财报
-DTSTAMP:20251028T044523Z
+DTSTAMP:20251028T165132Z
 DTSTART;VALUE=DATE:20251030
 DESCRIPTION:财务季度：Sep/2025。\n代码：AAPL，公司：苹果，行业: 电子商务。\n预计每股收益: $1.73，当前市值: $3
-	\,900\,351\,299\,800。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AAPL \
+	\,989\,245\,235\,900。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AAPL \
 	n在富途查看：https://www.futunn.com/hk/stock/AAPL-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -134,12 +134,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:LkTLP5MJqNKUovkbwGPxk
+UID:gGD2MPdGMHxPZRrWSgxd8
 SUMMARY:亚马逊 盘后发布财报
-DTSTAMP:20251028T044523Z
+DTSTAMP:20251028T165132Z
 DTSTART;VALUE=DATE:20251030
-DESCRIPTION:财务季度：Sep/2025。\n代码：AMZN，公司：亚马逊，行业: 电子商务。\n预计每股收益: $1.57，当前市值: $
-	2\,391\,179\,941\,268。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMZN 
+DESCRIPTION:财务季度：Sep/2025。\n代码：AMZN，公司：亚马逊，行业: 电子商务。\n预计每股收益: $1.58，当前市值: $
+	2\,420\,615\,098\,656。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMZN 
 	\n在富途查看：https://www.futunn.com/hk/stock/AMZN-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -150,12 +150,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:AUCPBTJZUYIYDO_Jvx0te
+UID:0dAOKYMqWNB1rfehJUL6b
 SUMMARY:理想汽车 发布财报
-DTSTAMP:20251028T044523Z
+DTSTAMP:20251028T165132Z
 DTSTART;VALUE=DATE:20251030
-DESCRIPTION:财务季度：Sep/2025。\n代码：LI，公司：理想汽车，行业: 汽车。\n预计每股收益: ，当前市值: $23\,197\
-	,085\,416。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LI \n在富途查看：https:
+DESCRIPTION:财务季度：Sep/2025。\n代码：LI，公司：理想汽车，行业: 汽车。\n预计每股收益: ，当前市值: $22\,816\
+	,111\,386。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LI \n在富途查看：https:
 	//www.futunn.com/hk/stock/LI-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -166,12 +166,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wwNBxCWBWETCLXfrwEdiG
+UID:-lO0sYixS-_fMkcG3JPQh
 SUMMARY:超威电子 盘后发布财报
-DTSTAMP:20251028T044523Z
+DTSTAMP:20251028T165132Z
 DTSTART;VALUE=DATE:20251104
 DESCRIPTION:财务季度：Sep/2025。\n代码：AMD，公司：超威电子，行业: 电子商务。\n预计每股收益: $0.97，当前市值: $
-	410\,449\,625\,822。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMD \n在富
+	421\,403\,820\,723。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMD \n在富
 	途查看：https://www.futunn.com/hk/stock/AMD-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -182,12 +182,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:EN48T3R2r7tgL2swqCLt_
+UID:sdsJ1_HAzXaxdZfuZZaVX
 SUMMARY:Arm 盘后发布财报
-DTSTAMP:20251028T044523Z
+DTSTAMP:20251028T165132Z
 DTSTART;VALUE=DATE:20251105
 DESCRIPTION:财务季度：Sep/2025。\n代码：ARM，公司：Arm，行业: 半导体。\n预计每股收益: $0.14，当前市值: $18
-	0\,795\,179\,349。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ARM \n在富途查
+	9\,205\,735\,501。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ARM \n在富途查
 	看：https://www.futunn.com/hk/stock/ARM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -198,12 +198,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:GPn2_TVtXvqnDqaLOvaGl
+UID:KQMSsQT4p7yTYs06GqQNR
 SUMMARY:迪士尼 盘前发布财报
-DTSTAMP:20251028T044523Z
+DTSTAMP:20251028T165132Z
 DTSTART;VALUE=DATE:20251113
 DESCRIPTION:财务季度：Sep/2025。\n代码：DIS，公司：迪士尼，行业: 电子商务。\n预计每股收益: $1.03，当前市值: $2
-	00\,793\,250\,469。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=DIS \n在富途
+	01\,979\,886\,799。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=DIS \n在富途
 	查看：https://www.futunn.com/hk/stock/DIS-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -214,12 +214,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ZjcZi2N6zi6P6IeQE2f1F
+UID:328rxBoNwmag8fH96N6vz
 SUMMARY:京东 发布财报
-DTSTAMP:20251028T044523Z
+DTSTAMP:20251028T165132Z
 DTSTART;VALUE=DATE:20251113
-DESCRIPTION:财务季度：Sep/2025。\n代码：JD，公司：京东，行业: 电子商务。\n预计每股收益: $0.34，当前市值: $48\
-	,234\,843\,559。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JD \n在富途查看：h
+DESCRIPTION:财务季度：Sep/2025。\n代码：JD，公司：京东，行业: 电子商务。\n预计每股收益: $0.34，当前市值: $49\
+	,702\,670\,977。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JD \n在富途查看：h
 	ttps://www.futunn.com/hk/stock/JD-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -230,12 +230,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:d9ACXgK_AK0WQvUkKrSLR
+UID:MQ69NwYOn9k85Nq439kCP
 SUMMARY:小鹏汽车 发布财报
-DTSTAMP:20251028T044523Z
+DTSTAMP:20251028T165132Z
 DTSTART;VALUE=DATE:20251118
-DESCRIPTION:财务季度：Sep/2025。\n代码：XPEV，公司：小鹏汽车，行业: 汽车。\n预计每股收益: ，当前市值: $20\,54
-	3\,848\,566。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=XPEV \n在富途查看：ht
+DESCRIPTION:财务季度：Sep/2025。\n代码：XPEV，公司：小鹏汽车，行业: 汽车。\n预计每股收益: ，当前市值: $21\,87
+	4\,162\,534。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=XPEV \n在富途查看：ht
 	tps://www.futunn.com/hk/stock/XPEV-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -246,12 +246,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:tLrAL6TZ6rHzJmnUc8uRF
+UID:UDzH54sV7KIcm5vnAWuwO
 SUMMARY:英伟达 发布财报
-DTSTAMP:20251028T044523Z
+DTSTAMP:20251028T165132Z
 DTSTART;VALUE=DATE:20251119
 DESCRIPTION:财务季度：Oct/2025。\n代码：NVDA，公司：英伟达，行业: 电子商务。\n预计每股收益: $1.17，当前市值: $
-	4\,526\,118\,000\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NVDA 
+	4\,653\,207\,000\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NVDA 
 	\n在富途查看：https://www.futunn.com/hk/stock/NVDA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -262,12 +262,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:zZJHLnPs79WoF5B211arZ
+UID:o96wrmsPtwg0laffZgeqE
 SUMMARY:蔚来 发布财报
-DTSTAMP:20251028T044523Z
+DTSTAMP:20251028T165132Z
 DTSTART;VALUE=DATE:20251119
 DESCRIPTION:财务季度：Sep/2025。\n代码：NIO，公司：蔚来，行业: 汽车。\n预计每股收益: ($0.24)，当前市值: $15
-	\,497\,335\,126。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NIO \n在富途查看
+	\,811\,773\,810。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NIO \n在富途查看
 	：https://www.futunn.com/hk/stock/NIO-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -278,12 +278,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:HErvqePABFsujXWT8Wsax
+UID:xAbMXf9NBW95f13JmYrCp
 SUMMARY:拼多多 发布财报
-DTSTAMP:20251028T044523Z
+DTSTAMP:20251028T165132Z
 DTSTART;VALUE=DATE:20251120
 DESCRIPTION:财务季度：Sep/2025。\n代码：PDD，公司：拼多多，行业: 电子商务。\n预计每股收益: $1.99，当前市值: $1
-	90\,175\,840\,050。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PDD \n在富途
+	95\,570\,496\,605。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PDD \n在富途
 	查看：https://www.futunn.com/hk/stock/PDD-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -294,12 +294,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ad7OlHFoawSLw6RgXWiDJ
+UID:ll-mXWfa-AMtOiyhZMA9m
 SUMMARY:阿里巴巴 发布财报
-DTSTAMP:20251028T044523Z
+DTSTAMP:20251028T165132Z
 DTSTART;VALUE=DATE:20251121
 DESCRIPTION:财务季度：Sep/2025。\n代码：BABA，公司：阿里巴巴，行业: 电子商务。\n预计每股收益: $0.49，当前市值: 
-	$403\,431\,122\,361。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BABA \n
+	$414\,400\,199\,815。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BABA \n
 	在富途查看：https://www.futunn.com/hk/stock/BABA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
