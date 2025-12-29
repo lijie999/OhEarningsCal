@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:wwpV7ZYKMIC7BjCWiTx_P
+UID:fQfGlbc8rAwLKVZC_KgHT
 SUMMARY:C3.ai 发布财报
-DTSTAMP:20251229T050412Z
+DTSTAMP:20251229T165059Z
 DTSTART;VALUE=DATE:20251203
 DESCRIPTION:财务季度：Oct/2025。\n代码：AI，公司：C3.ai，行业: 软件。\n预计每股收益: ($0.76)，当前市值: $
 	2\,069\,123\,937。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AI \n在富途查看
@@ -22,12 +22,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:tMP4zR-UD244C5kucHDKs
+UID:K3xGJHDfMLgMY5-8pnfET
 SUMMARY:台积电 发布财报
-DTSTAMP:20251229T050412Z
+DTSTAMP:20251229T165059Z
 DTSTART;VALUE=DATE:20260115
 DESCRIPTION:财务季度：Dec/2025。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $2.71，当前市值: $1\
-	,549\,740\,138\,422。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
+	,570\,693\,786\,880。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
 	富途查看：https://www.futunn.com/hk/stock/TSM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -38,12 +38,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:8B3EnlaIdOKPLF0U0smhL
+UID:8UXntZpi8gBKenvlJK4F1
 SUMMARY:NETFLIX 盘后发布财报
-DTSTAMP:20251229T050412Z
+DTSTAMP:20251229T165059Z
 DTSTART;VALUE=DATE:20260120
 DESCRIPTION:财务季度：Dec/2025。\n代码：NFLX，公司：NETFLIX，行业: 电子商务。\n预计每股收益: $0.55，当前市
-	值: $396\,782\,957\,558。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NFLX
+	值: $400\,299\,935\,930。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NFLX
 	 \n在富途查看：https://www.futunn.com/hk/stock/NFLX-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
