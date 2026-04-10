@@ -2,8 +2,8 @@
   "date": "2026-04-09",
   "data": [
     {
-      "lastYearRptDt": "4/08/2025",
-      "lastYearEPS": "$1.32",
+      "eps": "$1.32",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "WDFC",
       "name": "WD-40 Company",
@@ -13,9 +13,9 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "4/09/2025",
-      "lastYearEPS": "$0.08",
-      "time": "time-pre-market",
+      "eps": "$0.08",
+      "surprise": "300",
+      "time": "time-not-supplied",
       "symbol": "NEOG",
       "name": "Neogen Corporation",
       "marketCap": "$2,249,218,644",
@@ -24,9 +24,9 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "4/02/2025",
-      "lastYearEPS": "$0.03",
-      "time": "time-pre-market",
+      "eps": "$0.05",
+      "surprise": "25",
+      "time": "time-not-supplied",
       "symbol": "BB",
       "name": "BlackBerry Limited",
       "marketCap": "$2,084,030,058",
@@ -35,9 +35,9 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "4/09/2025",
-      "lastYearEPS": "$0.42",
-      "time": "time-pre-market",
+      "eps": "$0.41",
+      "surprise": "13.89",
+      "time": "time-not-supplied",
       "symbol": "SMPL",
       "name": "The Simply Good Foods Company",
       "marketCap": "$1,334,009,425",
@@ -46,8 +46,8 @@
       "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "4/03/2025",
-      "lastYearEPS": "$0.31",
+      "eps": "$0.31",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "SLP",
       "name": "Simulations Plus, Inc.",
@@ -57,9 +57,9 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "4/10/2025",
-      "lastYearEPS": "$0.07",
-      "time": "time-pre-market",
+      "eps": "$0.03",
+      "surprise": "-40",
+      "time": "time-not-supplied",
       "symbol": "BYRN",
       "name": "Byrna Technologies, Inc.",
       "marketCap": "$208,708,017",
@@ -68,9 +68,9 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "4/10/2025",
-      "lastYearEPS": "($0.03)",
-      "time": "time-pre-market",
+      "eps": "$0.01",
+      "surprise": "-50",
+      "time": "time-not-supplied",
       "symbol": "NTIC",
       "name": "Northern Technologies International Corporation",
       "marketCap": "$75,936,008",
@@ -79,8 +79,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($2.88)",
+      "eps": "($2.88)",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "ZBAI",
       "name": "ATIF Holdings Limited",
@@ -90,8 +90,30 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.05",
+      "eps": "($0.20)",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "YI",
+      "name": "111, Inc.",
+      "marketCap": "$56,164,985",
+      "fiscalQuarterEnding": "Dec/2025",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
+      "eps": "$0.04",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "ARTW",
+      "name": "Art's-Way Manufacturing Co., Inc.",
+      "marketCap": "$10,990,258",
+      "fiscalQuarterEnding": "Feb/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
+      "eps": "$0.05",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "LEDS",
       "name": "SemiLEDS Corporation",
