@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:KWo9rLxJLa471ixVdFhzO
+UID:pCFKGlbhY4iC7qeveV2fZ
 SUMMARY:谷歌 发布财报
-DTSTAMP:20260529T082631Z
+DTSTAMP:20260529T191254Z
 DTSTART;VALUE=DATE:20260429
 DESCRIPTION:财务季度：Mar/2026。\n代码：GOOG，公司：谷歌，行业: 电子商务。\n预计每股收益: $2.64，当前市值: $4
 	\,233\,379\,607\,251。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GOOG \
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:YD5kP8qJHGNdD12P4fGIN
+UID:V9jzQ5uIRfM88S0DLmDxP
 SUMMARY:微软 发布财报
-DTSTAMP:20260529T082631Z
+DTSTAMP:20260529T191254Z
 DTSTART;VALUE=DATE:20260429
 DESCRIPTION:财务季度：Mar/2026。\n代码：MSFT，公司：微软，行业: 电子商务。\n预计每股收益: $4.07，当前市值: $3
 	\,151\,882\,517\,599。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MSFT \
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:bA1CTov1OSfKS6ZK4j89l
+UID:5jHlw9Tsi8pGXbOmhI34n
 SUMMARY:亚马逊 发布财报
-DTSTAMP:20260529T082631Z
+DTSTAMP:20260529T191254Z
 DTSTART;VALUE=DATE:20260429
 DESCRIPTION:财务季度：Mar/2026。\n代码：AMZN，公司：亚马逊，行业: 电子商务。\n预计每股收益: $1.60，当前市值: $
 	2\,828\,798\,393\,209。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMZN 
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:bY9UKTA0k19-1vsHkpWEo
+UID:wW0rxoX3AoxZBGOnYTkac
 SUMMARY:META 发布财报
-DTSTAMP:20260529T082631Z
+DTSTAMP:20260529T191254Z
 DTSTART;VALUE=DATE:20260429
 DESCRIPTION:财务季度：Mar/2026。\n代码：META，公司：META，行业: 电子商务。\n预计每股收益: $6.71，当前市值: 
 	$1\,698\,509\,801\,172。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=META
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:edwtMIFb21ew6Hhf7K6NB
+UID:oKPVOTz591wUHjEQ0Q4V-
 SUMMARY:苹果 发布财报
-DTSTAMP:20260529T082631Z
+DTSTAMP:20260529T191254Z
 DTSTART;VALUE=DATE:20260430
 DESCRIPTION:财务季度：Mar/2026。\n代码：AAPL，公司：苹果，行业: 电子商务。\n预计每股收益: $1.92，当前市值: $3
 	\,983\,727\,339\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AAPL \
@@ -86,9 +86,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ytk3gfCwcemzExJFY-GWi
+UID:0LyRf7UTYcOiQQGMs0Dg1
 SUMMARY:超威电子 发布财报
-DTSTAMP:20260529T082631Z
+DTSTAMP:20260529T191254Z
 DTSTART;VALUE=DATE:20260505
 DESCRIPTION:财务季度：Mar/2026。\n代码：AMD，公司：超威电子，行业: 电子商务。\n预计每股收益: $1.06，当前市值: $
 	579\,194\,154\,628。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMD \n在富
@@ -102,9 +102,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:DkcGLz8RCbQBRHnzY29Mn
+UID:5dKaS9rrGpI_5wAPqpVvw
 SUMMARY:Arm 发布财报
-DTSTAMP:20260529T082631Z
+DTSTAMP:20260529T191254Z
 DTSTART;VALUE=DATE:20260506
 DESCRIPTION:财务季度：Mar/2026。\n代码：ARM，公司：Arm，行业: 半导体。\n预计每股收益: $0.38，当前市值: $25
 	1\,363\,346\,963。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ARM \n在富途查
@@ -118,9 +118,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:c14rB4-CmuZTgOzzN2vi5
+UID:-jfHjTEnbLUHETOtYzZHD
 SUMMARY:迪士尼 发布财报
-DTSTAMP:20260529T082631Z
+DTSTAMP:20260529T191254Z
 DTSTART;VALUE=DATE:20260506
 DESCRIPTION:财务季度：Mar/2026。\n代码：DIS，公司：迪士尼，行业: 电子商务。\n预计每股收益: $1.49，当前市值: $1
 	91\,430\,435\,099。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=DIS \n在富途
@@ -134,9 +134,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Vcpfgq05AMj9mSY1onD3D
+UID:LQWHbN6_KiyXD9ciVT2Fa
 SUMMARY:京东 发布财报
-DTSTAMP:20260529T082631Z
+DTSTAMP:20260529T191254Z
 DTSTART;VALUE=DATE:20260512
 DESCRIPTION:财务季度：Mar/2026。\n代码：JD，公司：京东，行业: 电子商务。\n预计每股收益: $0.43，当前市值: $43\
 	,009\,694\,851。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JD \n在富途查看：h
@@ -150,9 +150,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:gOyAT6HHanZIWY13eMwm7
+UID:Ph3jf3l9a34DbQ9O91Qui
 SUMMARY:阿里巴巴 发布财报
-DTSTAMP:20260529T082631Z
+DTSTAMP:20260529T191254Z
 DTSTART;VALUE=DATE:20260513
 DESCRIPTION:财务季度：Mar/2026。\n代码：BABA，公司：阿里巴巴，行业: 电子商务。\n预计每股收益: $1.02，当前市值: 
 	$336\,716\,038\,646。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BABA \n
@@ -166,9 +166,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:dt3mQj1FL4S_rlaJA8UFd
+UID:GrkgW-sGgu4YIsZTWPabG
 SUMMARY:英伟达 盘后发布财报
-DTSTAMP:20260529T082631Z
+DTSTAMP:20260529T191254Z
 DTSTART;VALUE=DATE:20260520
 DESCRIPTION:财务季度：Apr/2026。\n代码：NVDA，公司：英伟达，行业: 电子商务。\n预计每股收益: $1.70，当前市值: $
 	5\,363\,501\,604\,704。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NVDA 
@@ -182,9 +182,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:saBB2u2Js6VYqBnz-4ptV
+UID:W5AeVznAFJSlyGBmQGpcd
 SUMMARY:蔚来 发布财报
-DTSTAMP:20260529T082631Z
+DTSTAMP:20260529T191254Z
 DTSTART;VALUE=DATE:20260521
 DESCRIPTION:财务季度：Mar/2026。\n代码：NIO，公司：蔚来，行业: 汽车。\n预计每股收益: ($0.24)，当前市值: $14
 	\,031\,735\,323。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NIO \n在富途查看
@@ -198,9 +198,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:z5riXLLWnE-54lK0osnLt
+UID:zWjvhQOlXb0EMENc2qohJ
 SUMMARY:拼多多 发布财报
-DTSTAMP:20260529T082631Z
+DTSTAMP:20260529T191254Z
 DTSTART;VALUE=DATE:20260527
 DESCRIPTION:财务季度：Mar/2026。\n代码：PDD，公司：拼多多，行业: 电子商务。\n预计每股收益: $2.03，当前市值: $1
 	23\,280\,367\,574。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PDD \n在富途
@@ -214,12 +214,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:aYe5aaPzDFASMn0J_s5s9
+UID:VG3LB1wcjo0cnLqd6qhur
 SUMMARY:理想汽车 发布财报
-DTSTAMP:20260529T082631Z
+DTSTAMP:20260529T191254Z
 DTSTART;VALUE=DATE:20260528
-DESCRIPTION:财务季度：Mar/2026。\n代码：LI，公司：理想汽车，行业: 汽车。\n预计每股收益: $0，当前市值: $16\,85
-	7\,071\,837。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LI \n在富途查看：http
+DESCRIPTION:财务季度：Mar/2026。\n代码：LI，公司：理想汽车，行业: 汽车。\n预计每股收益: $0，当前市值: $16\,60
+	0\,690\,517。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LI \n在富途查看：http
 	s://www.futunn.com/hk/stock/LI-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -230,12 +230,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:jjt9Tsc7_WPx4R64jMDgE
+UID:wn94VPEQ6jfcHY4Gmjgvp
 SUMMARY:小鹏汽车 发布财报
-DTSTAMP:20260529T082631Z
+DTSTAMP:20260529T191254Z
 DTSTART;VALUE=DATE:20260528
-DESCRIPTION:财务季度：Mar/2026。\n代码：XPEV，公司：小鹏汽车，行业: 汽车。\n预计每股收益: ，当前市值: $15\,72
-	3\,391\,985。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=XPEV \n在富途查看：ht
+DESCRIPTION:财务季度：Mar/2026。\n代码：XPEV，公司：小鹏汽车，行业: 汽车。\n预计每股收益: ，当前市值: $15\,71
+	3\,833\,692。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=XPEV \n在富途查看：ht
 	tps://www.futunn.com/hk/stock/XPEV-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -246,12 +246,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:IF-c6MUjwQi34UxMgMyO-
+UID:qJgZr9HggioXAVTYLs3Aw
 SUMMARY:C3.ai 盘后发布财报
-DTSTAMP:20260529T082631Z
+DTSTAMP:20260529T191254Z
 DTSTART;VALUE=DATE:20260603
 DESCRIPTION:财务季度：Apr/2026。\n代码：AI，公司：C3.ai，行业: 软件。\n预计每股收益: ($0.74)，当前市值: $
-	1\,393\,342\,819。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AI \n在富途查看
+	1\,484\,876\,289。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AI \n在富途查看
 	：https://www.futunn.com/hk/stock/AI-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
