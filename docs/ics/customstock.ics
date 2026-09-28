@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:GN5134aUFolbVLPWgJH3d
+UID:ArRJr5XRkyMw8rymQaA2y
 SUMMARY:蔚来 发布财报
-DTSTAMP:20260928T111128Z
+DTSTAMP:20260928T221545Z
 DTSTART;VALUE=DATE:20260901
 DESCRIPTION:财务季度：Jun/2026。\n代码：NIO，公司：蔚来，行业: 汽车。\n预计每股收益: ($0.07)，当前市值: $10
 	\,173\,007\,900。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NIO \n在富途查看
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:xnip3GFo3HSWBO7cbGRRo
+UID:nPuOHJEBPQQbUv4NvINI-
 SUMMARY:C3.ai 发布财报
-DTSTAMP:20260928T111128Z
+DTSTAMP:20260928T221545Z
 DTSTART;VALUE=DATE:20260902
 DESCRIPTION:财务季度：Jul/2026。\n代码：AI，公司：C3.ai，行业: 软件。\n预计每股收益: ($0.64)，当前市值: $
 	1\,684\,117\,250。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AI \n在富途查看
@@ -38,12 +38,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:K4VM4-yMVEUbf85ZNieo9
+UID:H-qFI1mzPeUGbRhcyUcJH
 SUMMARY:台积电 盘前发布财报
-DTSTAMP:20260928T111128Z
+DTSTAMP:20260928T221545Z
 DTSTART;VALUE=DATE:20261015
 DESCRIPTION:财务季度：Sep/2026。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $4.45，当前市值: $2\
-	,339\,891\,580\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
+	,337\,091\,090\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
 	富途查看：https://www.futunn.com/hk/stock/TSM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -54,12 +54,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1UlUn31E1frnrSbzxuZN5
+UID:w8SvcsMbIi-hmyXO3C_XB
 SUMMARY:NETFLIX 盘后发布财报
-DTSTAMP:20260928T111128Z
+DTSTAMP:20260928T221545Z
 DTSTART;VALUE=DATE:20261020
 DESCRIPTION:财务季度：Sep/2026。\n代码：NFLX，公司：NETFLIX，行业: 电子商务。\n预计每股收益: $0.82，当前市
-	值: $298\,637\,754\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NFLX
+	值: $296\,243\,495\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NFLX
 	 \n在富途查看：https://www.futunn.com/hk/stock/NFLX-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -70,12 +70,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:pplv2Pisb30xQOQWNRQJv
+UID:5-bYm1pwFaLl0TE0bKWqm
 SUMMARY:INTEL 发布财报
-DTSTAMP:20260928T111128Z
+DTSTAMP:20260928T221545Z
 DTSTART;VALUE=DATE:20261022
 DESCRIPTION:财务季度：Sep/2026。\n代码：INTC，公司：INTEL，行业: 电子商务。\n预计每股收益: $0.28，当前市值:
-	 $673\,265\,030\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=INTC \
+	 $650\,063\,580\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=INTC \
 	n在富途查看：https://www.futunn.com/hk/stock/INTC-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
