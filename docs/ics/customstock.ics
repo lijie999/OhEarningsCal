@@ -6,12 +6,12 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:2L9JGPR8Ueckrc_0rOwM_
+UID:Dr92CzR4sPLvE4WUkyEUL
 SUMMARY:台积电 盘前发布财报
-DTSTAMP:20261005T114817Z
+DTSTAMP:20261005T225334Z
 DTSTART;VALUE=DATE:20261015
 DESCRIPTION:财务季度：Sep/2026。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $4.45，当前市值: $2\
-	,381\,642\,990\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
+	,452\,075\,840\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
 	富途查看：https://www.futunn.com/hk/stock/TSM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -22,12 +22,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:MMHi4qryqexl0ViP33oRX
+UID:mnJ8e4pqVJ2fD3xvI72g7
 SUMMARY:NETFLIX 盘后发布财报
-DTSTAMP:20261005T114817Z
+DTSTAMP:20261005T225334Z
 DTSTART;VALUE=DATE:20261020
 DESCRIPTION:财务季度：Sep/2026。\n代码：NFLX，公司：NETFLIX，行业: 电子商务。\n预计每股收益: $0.82，当前市
-	值: $282\,523\,304\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NFLX
+	值: $279\,233\,790\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NFLX
 	 \n在富途查看：https://www.futunn.com/hk/stock/NFLX-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:O9f7Oyq2rx7jf0ZTEQAxD
+UID:_Cw7s2eiZ93eXqELbulSX
 SUMMARY:INTEL 发布财报
-DTSTAMP:20261005T114817Z
+DTSTAMP:20261005T225334Z
 DTSTART;VALUE=DATE:20261022
 DESCRIPTION:财务季度：Sep/2026。\n代码：INTC，公司：INTEL，行业: 电子商务。\n预计每股收益: $0.27，当前市值:
 	 $630\,667\,350\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=INTC \
@@ -54,12 +54,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:D9Wx2FKpJOTniS4BNoCRP
+UID:QmtW9tSZKnXrZuwgQ8sR2
 SUMMARY:特斯拉 发布财报
-DTSTAMP:20261005T114817Z
+DTSTAMP:20261005T225334Z
 DTSTART;VALUE=DATE:20261028
 DESCRIPTION:财务季度：Sep/2026。\n代码：TSLA，公司：特斯拉，行业: 电子商务。\n预计每股收益: $0.24，当前市值: $
-	1\,398\,574\,280\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA 
+	1\,463\,662\,800\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSLA 
 	\n在富途查看：https://www.futunn.com/hk/stock/TSLA-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:_BXut8sCOcy9h_MalFmQt
+UID:EdUzSOYE-zB-_aFHsJ9Ut
 SUMMARY:苹果 发布财报
-DTSTAMP:20261005T114817Z
+DTSTAMP:20261005T225334Z
 DTSTART;VALUE=DATE:20261029
 DESCRIPTION:财务季度：Sep/2026。\n代码：AAPL，公司：苹果，行业: 电子商务。\n预计每股收益: $1.98，当前市值: $4
 	\,869\,931\,900\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AAPL \
@@ -86,9 +86,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:gb2nVG_o1-p1y6rxfvErp
+UID:wR7wusO5PM6LK2o74l6wh
 SUMMARY:亚马逊 发布财报
-DTSTAMP:20261005T114817Z
+DTSTAMP:20261005T225334Z
 DTSTART;VALUE=DATE:20261029
 DESCRIPTION:财务季度：Sep/2026。\n代码：AMZN，公司：亚马逊，行业: 电子商务。\n预计每股收益: $2.02，当前市值: $
 	2\,712\,973\,610\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMZN 
@@ -102,9 +102,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wQAxmn-ZwKEeia20QbcdL
+UID:e2nd0IorSBIEc_Y7Yty_h
 SUMMARY:超威电子 发布财报
-DTSTAMP:20261005T114817Z
+DTSTAMP:20261005T225334Z
 DTSTART;VALUE=DATE:20261103
 DESCRIPTION:财务季度：Sep/2026。\n代码：AMD，公司：超威电子，行业: 电子商务。\n预计每股收益: $1.64，当前市值: $
 	1\,034\,842\,280\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AMD \
